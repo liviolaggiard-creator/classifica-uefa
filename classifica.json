@@ -113,7 +113,7 @@
   },
   {
     "pos": 15,
-    "team": "Club Atl√©tico de Madrid",
+    "team": "Club AtlÈtico de Madrid",
     "nation": "ESP",
     "league": 8,
     "uefa": 14,
@@ -121,7 +121,7 @@
   },
   {
     "pos": 16,
-    "team": "FC Bayern M√ºnchen",
+    "team": "FC Bayern M¸nchen",
     "nation": "GER",
     "league": 8,
     "uefa": 14,
@@ -153,7 +153,7 @@
   },
   {
     "pos": 20,
-    "team": "Real Betis Balompi√©",
+    "team": "Real Betis BalompiÈ",
     "nation": "ESP",
     "league": 7,
     "uefa": 14,
@@ -177,7 +177,7 @@
   },
   {
     "pos": 23,
-    "team": "Lille OSC M√©tropole",
+    "team": "Lille OSC MÈtropole",
     "nation": "FRA",
     "league": 7,
     "uefa": 14,
@@ -281,7 +281,7 @@
   },
   {
     "pos": 36,
-    "team": "V√≠kingur Reykjav√≠k",
+    "team": "VÌkingur ReykjavÌk",
     "nation": "ISL",
     "league": 12,
     "uefa": 5,
@@ -313,7 +313,7 @@
   },
   {
     "pos": 40,
-    "team": "≈†K Slovan Bratislava",
+    "team": "äK Slovan Bratislava",
     "nation": "SVK",
     "league": 4,
     "uefa": 13,
@@ -465,7 +465,7 @@
   },
   {
     "pos": 59,
-    "team": "FK Kauno ≈Ωalgiris",
+    "team": "FK Kauno éalgiris",
     "nation": "LTU",
     "league": 5,
     "uefa": 9,
@@ -489,7 +489,7 @@
   },
   {
     "pos": 62,
-    "team": "Troms√∏ IL",
+    "team": "Troms¯ IL",
     "nation": "NOR",
     "league": 11,
     "uefa": 2,
@@ -505,7 +505,7 @@
   },
   {
     "pos": 64,
-    "team": "Real Sociedad de F√∫tbol",
+    "team": "Real Sociedad de F˙tbol",
     "nation": "ESP",
     "league": 7,
     "uefa": 6,
@@ -593,7 +593,7 @@
   },
   {
     "pos": 75,
-    "team": "Deportivo Alav√©s",
+    "team": "Deportivo AlavÈs",
     "nation": "ESP",
     "league": 11,
     "uefa": 0,
@@ -633,7 +633,7 @@
   },
   {
     "pos": 80,
-    "team": "Be≈üikta≈ü",
+    "team": "Besiktas",
     "nation": "TUR",
     "league": 6,
     "uefa": 5,
@@ -641,7 +641,7 @@
   },
   {
     "pos": 81,
-    "team": "KKS Lech Pozna≈Ñ",
+    "team": "KKS Lech Poznan",
     "nation": "POL",
     "league": 4,
     "uefa": 7,
@@ -649,7 +649,7 @@
   },
   {
     "pos": 82,
-    "team": "KS Egnatia Rrogozhin√´",
+    "team": "KS Egnatia RrogozhinÎ",
     "nation": "ALB",
     "league": 2,
     "uefa": 9,
@@ -657,7 +657,7 @@
   },
   {
     "pos": 83,
-    "team": "Fenerbah√ße",
+    "team": "FenerbahÁe",
     "nation": "TUR",
     "league": 2,
     "uefa": 9,
@@ -673,7 +673,7 @@
   },
   {
     "pos": 85,
-    "team": "FK Rƒ´gas Futbola skola",
+    "team": "FK Rigas Futbola skola",
     "nation": "LVA",
     "league": 9,
     "uefa": 1,
@@ -681,7 +681,7 @@
   },
   {
     "pos": 86,
-    "team": "NS√ç Runav√≠k",
+    "team": "NSÕ RunavÌk",
     "nation": "FRO",
     "league": 8,
     "uefa": 2,
@@ -689,7 +689,7 @@
   },
   {
     "pos": 87,
-    "team": "FC K√∏benhavn",
+    "team": "FC K¯benhavn",
     "nation": "DEN",
     "league": 7,
     "uefa": 3,
@@ -705,7 +705,7 @@
   },
   {
     "pos": 89,
-    "team": "Lillestr√∏m SK",
+    "team": "Lillestr¯m SK",
     "nation": "NOR",
     "league": 4,
     "uefa": 6,
@@ -713,7 +713,7 @@
   },
   {
     "pos": 90,
-    "team": "SSA Jagiellonia Bia≈Çystok",
+    "team": "SSA Jagiellonia Bialystok",
     "nation": "POL",
     "league": 3,
     "uefa": 7,
@@ -841,7 +841,7 @@
   },
   {
     "pos": 106,
-    "team": "CS Mar√≠timo Funchal",
+    "team": "CS MarÌtimo Funchal",
     "nation": "POR",
     "league": 9,
     "uefa": 0,
@@ -857,7 +857,7 @@
   },
   {
     "pos": 108,
-    "team": "KS G√≥rnik Zabrze",
+    "team": "KS GÛrnik Zabrze",
     "nation": "POL",
     "league": 6,
     "uefa": 3,
@@ -881,7 +881,7 @@
   },
   {
     "pos": 111,
-    "team": "FC Viktoria Plze≈à",
+    "team": "FC Viktoria Plzen",
     "nation": "CZE",
     "league": 4,
     "uefa": 5,
@@ -913,7 +913,7 @@
   },
   {
     "pos": 115,
-    "team": "Ferencv√°rosi TC",
+    "team": "Ferencv·rosi TC",
     "nation": "HUN",
     "league": 0,
     "uefa": 9,
@@ -921,7 +921,7 @@
   },
   {
     "pos": 116,
-    "team": "Mj√§llby AIF",
+    "team": "Mj‰llby AIF",
     "nation": "SWE",
     "league": 0,
     "uefa": 9,
@@ -961,7 +961,7 @@
   },
   {
     "pos": 121,
-    "team": "NK Vara≈ædin",
+    "team": "NK Varaûdin",
     "nation": "CRO",
     "league": 8,
     "uefa": 0,
@@ -1041,7 +1041,7 @@
   },
   {
     "pos": 131,
-    "team": "Borussia VfL M√∂nchengladbach",
+    "team": "Borussia VfL Mˆnchengladbach",
     "nation": "GER",
     "league": 8,
     "uefa": 0,
@@ -1089,7 +1089,7 @@
   },
   {
     "pos": 137,
-    "team": "FC Nordsj√¶lland",
+    "team": "FC NordsjÊlland",
     "nation": "DEN",
     "league": 5,
     "uefa": 3,
@@ -1137,7 +1137,7 @@
   },
   {
     "pos": 143,
-    "team": "K√ç Klaksv√≠k",
+    "team": "KÕ KlaksvÌk",
     "nation": "FRO",
     "league": 2,
     "uefa": 6,
@@ -1161,7 +1161,7 @@
   },
   {
     "pos": 146,
-    "team": "FK Mlad√° Boleslav",
+    "team": "FK Mlad· Boleslav",
     "nation": "CZE",
     "league": 7,
     "uefa": 0,
@@ -1169,7 +1169,7 @@
   },
   {
     "pos": 147,
-    "team": "Deportivo La Coru√±a",
+    "team": "Deportivo La CoruÒa",
     "nation": "ESP",
     "league": 7,
     "uefa": 0,
@@ -1185,7 +1185,7 @@
   },
   {
     "pos": 149,
-    "team": "M√°laga CF",
+    "team": "M·laga CF",
     "nation": "ESP",
     "league": 7,
     "uefa": 0,
@@ -1209,7 +1209,7 @@
   },
   {
     "pos": 152,
-    "team": "Getafe Club de F√∫tbol",
+    "team": "Getafe Club de F˙tbol",
     "nation": "ESP",
     "league": 7,
     "uefa": 0,
@@ -1265,7 +1265,7 @@
   },
   {
     "pos": 159,
-    "team": "OGC Nice C√¥te d'Azur",
+    "team": "OGC Nice CÙte d'Azur",
     "nation": "FRA",
     "league": 7,
     "uefa": 0,
@@ -1305,7 +1305,7 @@
   },
   {
     "pos": 164,
-    "team": "1. FC K√∂ln",
+    "team": "1. FC Kˆln",
     "nation": "GER",
     "league": 7,
     "uefa": 0,
@@ -1497,7 +1497,7 @@
   },
   {
     "pos": 188,
-    "team": "FC Hradec Kr√°lov√©",
+    "team": "FC Hradec Kr·lovÈ",
     "nation": "CZE",
     "league": 6,
     "uefa": 1,
@@ -1633,7 +1633,7 @@
   },
   {
     "pos": 205,
-    "team": "ƒ∞stanbul Ba≈üak≈üehir FK",
+    "team": "Istanbul Basaksehir FK",
     "nation": "TUR",
     "league": 6,
     "uefa": 0,
@@ -1641,7 +1641,7 @@
   },
   {
     "pos": 206,
-    "team": "√áaykur Rizespor",
+    "team": "«aykur Rizespor",
     "nation": "TUR",
     "league": 6,
     "uefa": 0,
@@ -1649,7 +1649,7 @@
   },
   {
     "pos": 207,
-    "team": "Gen√ßlerbirliƒüi",
+    "team": "GenÁlerbirligi",
     "nation": "TUR",
     "league": 6,
     "uefa": 0,
@@ -1761,7 +1761,7 @@
   },
   {
     "pos": 221,
-    "team": "Br√∏ndby IF",
+    "team": "Br¯ndby IF",
     "nation": "DEN",
     "league": 5,
     "uefa": 0,
@@ -1801,7 +1801,7 @@
   },
   {
     "pos": 226,
-    "team": "Pusk√°s Ferenc Akad√©mia FC",
+    "team": "Pusk·s Ferenc AkadÈmia FC",
     "nation": "HUN",
     "league": 5,
     "uefa": 0,
@@ -1849,7 +1849,7 @@
   },
   {
     "pos": 232,
-    "team": "FK ƒåukariƒçki Stankom",
+    "team": "FK Cukaricki Stankom",
     "nation": "SRB",
     "league": 5,
     "uefa": 0,
@@ -1881,7 +1881,7 @@
   },
   {
     "pos": 236,
-    "team": "≈ΩP ≈†port Podbrezov√°",
+    "team": "éP äport Podbrezov·",
     "nation": "SVK",
     "league": 5,
     "uefa": 0,
@@ -1945,7 +1945,7 @@
   },
   {
     "pos": 244,
-    "team": "Qarabaƒü Aƒüdam FK",
+    "team": "Qarabag Agdam FK",
     "nation": "AZE",
     "league": 1,
     "uefa": 4,
@@ -1985,7 +1985,7 @@
   },
   {
     "pos": 249,
-    "team": "Neft√ßi PFC Bakƒ±",
+    "team": "NeftÁi PFC Baki",
     "nation": "AZE",
     "league": 4,
     "uefa": 0,
@@ -2017,7 +2017,7 @@
   },
   {
     "pos": 253,
-    "team": "H≈†K Zrinjski Mostar",
+    "team": "HäK Zrinjski Mostar",
     "nation": "BIH",
     "league": 4,
     "uefa": 0,
@@ -2097,7 +2097,7 @@
   },
   {
     "pos": 263,
-    "team": "KR Reykjav√≠k",
+    "team": "KR ReykjavÌk",
     "nation": "ISL",
     "league": 4,
     "uefa": 0,
@@ -2105,7 +2105,7 @@
   },
   {
     "pos": 264,
-    "team": "FK D≈æiugas Tel≈°iai",
+    "team": "FK Dûiugas Telöiai",
     "nation": "LTU",
     "league": 4,
     "uefa": 0,
@@ -2129,7 +2129,7 @@
   },
   {
     "pos": 267,
-    "team": "Wis≈Ça Krak√≥w",
+    "team": "Wisla KrakÛw",
     "nation": "POL",
     "league": 4,
     "uefa": 0,
@@ -2145,7 +2145,7 @@
   },
   {
     "pos": 269,
-    "team": "FC Dinamo 1948 Bucure≈üti",
+    "team": "FC Dinamo 1948 Bucuresti",
     "nation": "ROU",
     "league": 4,
     "uefa": 0,
@@ -2153,7 +2153,7 @@
   },
   {
     "pos": 270,
-    "team": "FC Arge»ô Pite»ôti",
+    "team": "FC Arge? Pite?ti",
     "nation": "ROU",
     "league": 4,
     "uefa": 0,
@@ -2217,7 +2217,7 @@
   },
   {
     "pos": 278,
-    "team": "A≈†K Bravo Publikum",
+    "team": "AäK Bravo Publikum",
     "nation": "SVN",
     "league": 4,
     "uefa": 0,
@@ -2273,7 +2273,7 @@
   },
   {
     "pos": 285,
-    "team": "DAC 1904 Dunajsk√° Streda",
+    "team": "DAC 1904 Dunajsk· Streda",
     "nation": "SVK",
     "league": 3,
     "uefa": 1,
@@ -2321,7 +2321,7 @@
   },
   {
     "pos": 291,
-    "team": "Royal Standard de Li√®ge",
+    "team": "Royal Standard de LiËge",
     "nation": "BEL",
     "league": 3,
     "uefa": 0,
@@ -2329,7 +2329,7 @@
   },
   {
     "pos": 292,
-    "team": "NK ≈†iroki Brijeg",
+    "team": "NK äiroki Brijeg",
     "nation": "BIH",
     "league": 3,
     "uefa": 0,
@@ -2361,7 +2361,7 @@
   },
   {
     "pos": 296,
-    "team": "√öjpest FC",
+    "team": "⁄jpest FC",
     "nation": "HUN",
     "league": 3,
     "uefa": 0,
@@ -2369,7 +2369,7 @@
   },
   {
     "pos": 297,
-    "team": "Ny√≠regyh√°za Spartacus FC",
+    "team": "NyÌregyh·za Spartacus FC",
     "nation": "HUN",
     "league": 3,
     "uefa": 0,
@@ -2425,7 +2425,7 @@
   },
   {
     "pos": 304,
-    "team": "Ujvara e Malishev√´s",
+    "team": "Ujvara e MalishevÎs",
     "nation": "KOS",
     "league": 3,
     "uefa": 0,
@@ -2449,7 +2449,7 @@
   },
   {
     "pos": 307,
-    "team": "FK S≈´duva Marijampolƒó",
+    "team": "FK Suduva Marijampole",
     "nation": "LTU",
     "league": 3,
     "uefa": 0,
@@ -2457,7 +2457,7 @@
   },
   {
     "pos": 308,
-    "team": "FK Banga Garg≈ædai",
+    "team": "FK Banga Gargûdai",
     "nation": "LTU",
     "league": 3,
     "uefa": 0,
@@ -2481,7 +2481,7 @@
   },
   {
     "pos": 311,
-    "team": "MKS Pogo≈Ñ Szczecin",
+    "team": "MKS Pogon Szczecin",
     "nation": "POL",
     "league": 3,
     "uefa": 0,
@@ -2489,7 +2489,7 @@
   },
   {
     "pos": 312,
-    "team": "Zag≈Çƒôbie Lubin",
+    "team": "Zaglebie Lubin",
     "nation": "POL",
     "league": 3,
     "uefa": 0,
@@ -2497,7 +2497,7 @@
   },
   {
     "pos": 313,
-    "team": "RTS Widzew ≈Å√≥d≈∫",
+    "team": "RTS Widzew LÛdz",
     "nation": "POL",
     "league": 3,
     "uefa": 0,
@@ -2505,7 +2505,7 @@
   },
   {
     "pos": 314,
-    "team": "MKS Cracovia Krak√≥w",
+    "team": "MKS Cracovia KrakÛw",
     "nation": "POL",
     "league": 3,
     "uefa": 0,
@@ -2529,7 +2529,7 @@
   },
   {
     "pos": 317,
-    "team": "FC Famalic√£o",
+    "team": "FC Famalic„o",
     "nation": "POR",
     "league": 3,
     "uefa": 0,
@@ -2561,7 +2561,7 @@
   },
   {
     "pos": 321,
-    "team": "ACS Petrolul 52 Ploie≈üti",
+    "team": "ACS Petrolul 52 Ploiesti",
     "nation": "ROU",
     "league": 3,
     "uefa": 0,
@@ -2577,7 +2577,7 @@
   },
   {
     "pos": 323,
-    "team": "M≈†K ≈Ωilina",
+    "team": "MäK éilina",
     "nation": "SVK",
     "league": 3,
     "uefa": 0,
@@ -2593,7 +2593,7 @@
   },
   {
     "pos": 325,
-    "team": "N≈† Mura",
+    "team": "Nä Mura",
     "nation": "SVN",
     "league": 3,
     "uefa": 0,
@@ -2601,7 +2601,7 @@
   },
   {
     "pos": 326,
-    "team": "√áorum Belediye Spor Kul√ºb√º",
+    "team": "«orum Belediye Spor Kul¸b¸",
     "nation": "TUR",
     "league": 3,
     "uefa": 0,
@@ -2641,7 +2641,7 @@
   },
   {
     "pos": 331,
-    "team": "KS Rak√≥w Czƒôstochowa",
+    "team": "KS RakÛw Czestochowa",
     "nation": "POL",
     "league": 0,
     "uefa": 3,
@@ -2657,7 +2657,7 @@
   },
   {
     "pos": 333,
-    "team": "KF La√ßi",
+    "team": "KF LaÁi",
     "nation": "ALB",
     "league": 2,
     "uefa": 0,
@@ -2673,7 +2673,7 @@
   },
   {
     "pos": 335,
-    "team": "KS Sk√´nderbeu Kor√ß√´",
+    "team": "KS SkÎnderbeu KorÁÎ",
     "nation": "ALB",
     "league": 2,
     "uefa": 0,
@@ -2681,7 +2681,7 @@
   },
   {
     "pos": 336,
-    "team": "KS Teuta Durr√´s",
+    "team": "KS Teuta DurrÎs",
     "nation": "ALB",
     "league": 2,
     "uefa": 0,
@@ -2697,7 +2697,7 @@
   },
   {
     "pos": 338,
-    "team": "KS Vllaznia Shkod√´r",
+    "team": "KS Vllaznia ShkodÎr",
     "nation": "ALB",
     "league": 2,
     "uefa": 0,
@@ -2721,7 +2721,7 @@
   },
   {
     "pos": 341,
-    "team": "Mil Muƒüan FK",
+    "team": "Mil Mugan FK",
     "nation": "AZE",
     "league": 2,
     "uefa": 0,
@@ -2745,7 +2745,7 @@
   },
   {
     "pos": 344,
-    "team": "FK ≈Ωeljezniƒçar Sarajevo",
+    "team": "FK éeljeznicar Sarajevo",
     "nation": "BIH",
     "league": 2,
     "uefa": 0,
@@ -2897,7 +2897,7 @@
   },
   {
     "pos": 363,
-    "team": "N√µmme Kalju FC",
+    "team": "Nımme Kalju FC",
     "nation": "EST",
     "league": 2,
     "uefa": 0,
@@ -2905,7 +2905,7 @@
   },
   {
     "pos": 364,
-    "team": "HB T√≥rshavn",
+    "team": "HB TÛrshavn",
     "nation": "FRO",
     "league": 2,
     "uefa": 0,
@@ -2913,7 +2913,7 @@
   },
   {
     "pos": 365,
-    "team": "B36 T√≥rshavn",
+    "team": "B36 TÛrshavn",
     "nation": "FRO",
     "league": 2,
     "uefa": 0,
@@ -2929,7 +2929,7 @@
   },
   {
     "pos": 367,
-    "team": "Fram Reykjav√≠k",
+    "team": "Fram ReykjavÌk",
     "nation": "ISL",
     "league": 2,
     "uefa": 0,
@@ -2977,7 +2977,7 @@
   },
   {
     "pos": 373,
-    "team": "FC Progr√®s Niederkorn",
+    "team": "FC ProgrËs Niederkorn",
     "nation": "LUX",
     "league": 2,
     "uefa": 0,
@@ -2993,7 +2993,7 @@
   },
   {
     "pos": 375,
-    "team": "FC Zimbru Chi≈üinƒÉu",
+    "team": "FC Zimbru Chisinau",
     "nation": "MDA",
     "league": 2,
     "uefa": 0,
@@ -3001,7 +3001,7 @@
   },
   {
     "pos": 376,
-    "team": "CS Petrocub H√Ænce≈üti",
+    "team": "CS Petrocub HÓncesti",
     "nation": "MDA",
     "league": 2,
     "uefa": 0,
@@ -3089,7 +3089,7 @@
   },
   {
     "pos": 387,
-    "team": "Wis≈Ça P≈Çock SA",
+    "team": "Wisla Plock SA",
     "nation": "POL",
     "league": 2,
     "uefa": 0,
@@ -3097,7 +3097,7 @@
   },
   {
     "pos": 388,
-    "team": "WKS ≈ölƒÖsk Wroc≈Çaw",
+    "team": "WKS Slask Wroclaw",
     "nation": "POL",
     "league": 2,
     "uefa": 0,
@@ -3121,7 +3121,7 @@
   },
   {
     "pos": 391,
-    "team": "Vit√≥ria Guimar√£es SC",
+    "team": "VitÛria Guimar„es SC",
     "nation": "POR",
     "league": 2,
     "uefa": 0,
@@ -3153,7 +3153,7 @@
   },
   {
     "pos": 395,
-    "team": "FC Rapid Bucure≈üti",
+    "team": "FC Rapid Bucuresti",
     "nation": "ROU",
     "league": 2,
     "uefa": 0,
@@ -3161,7 +3161,7 @@
   },
   {
     "pos": 396,
-    "team": "SSC Farul Constan≈£a",
+    "team": "SSC Farul Constanta",
     "nation": "ROU",
     "league": 2,
     "uefa": 0,
@@ -3185,7 +3185,7 @@
   },
   {
     "pos": 399,
-    "team": "LFK Mladost Luƒçani",
+    "team": "LFK Mladost Lucani",
     "nation": "SRB",
     "league": 2,
     "uefa": 0,
@@ -3201,7 +3201,7 @@
   },
   {
     "pos": 401,
-    "team": "FC Z√ºrich",
+    "team": "FC Z¸rich",
     "nation": "SUI",
     "league": 2,
     "uefa": 0,
@@ -3217,7 +3217,7 @@
   },
   {
     "pos": 403,
-    "team": "G√∂ztepe",
+    "team": "Gˆztepe",
     "nation": "TUR",
     "league": 2,
     "uefa": 0,
@@ -3233,7 +3233,7 @@
   },
   {
     "pos": 405,
-    "team": "Ey√ºp Spor Kul√ºb√º",
+    "team": "Ey¸p Spor Kul¸b¸",
     "nation": "TUR",
     "league": 2,
     "uefa": 0,
@@ -3249,7 +3249,7 @@
   },
   {
     "pos": 407,
-    "team": "Kocaelispor Kul√ºb√º",
+    "team": "Kocaelispor Kul¸b¸",
     "nation": "TUR",
     "league": 2,
     "uefa": 0,
@@ -3401,7 +3401,7 @@
   },
   {
     "pos": 426,
-    "team": "FC ƒ∞nter Bakƒ±",
+    "team": "FC Inter Baki",
     "nation": "AZE",
     "league": 1,
     "uefa": 0,
@@ -3433,7 +3433,7 @@
   },
   {
     "pos": 430,
-    "team": "FK Sumqayƒ±t",
+    "team": "FK Sumqayit",
     "nation": "AZE",
     "league": 1,
     "uefa": 0,
@@ -3441,7 +3441,7 @@
   },
   {
     "pos": 431,
-    "team": "RAAL La Louvi√®re",
+    "team": "RAAL La LouviËre",
     "nation": "BEL",
     "league": 1,
     "uefa": 0,
@@ -3505,7 +3505,7 @@
   },
   {
     "pos": 439,
-    "team": "V√≠kingur G√∏ta",
+    "team": "VÌkingur G¯ta",
     "nation": "FRO",
     "league": 1,
     "uefa": 0,
@@ -3593,7 +3593,7 @@
   },
   {
     "pos": 450,
-    "team": "Kisv√°rda Master Good SE",
+    "team": "Kisv·rda Master Good SE",
     "nation": "HUN",
     "league": 1,
     "uefa": 0,
@@ -3609,7 +3609,7 @@
   },
   {
     "pos": 452,
-    "team": "KF Drenica Sk√´nderaj",
+    "team": "KF Drenica SkÎnderaj",
     "nation": "KOS",
     "league": 1,
     "uefa": 0,
@@ -3657,7 +3657,7 @@
   },
   {
     "pos": 458,
-    "team": "Racing FC Union L√´tzebuerg",
+    "team": "Racing FC Union LÎtzebuerg",
     "nation": "LUX",
     "league": 1,
     "uefa": 0,
@@ -3673,7 +3673,7 @@
   },
   {
     "pos": 460,
-    "team": "FK Tikve≈°",
+    "team": "FK Tikveö",
     "nation": "MKD",
     "league": 1,
     "uefa": 0,
@@ -3689,7 +3689,7 @@
   },
   {
     "pos": 462,
-    "team": "FK Buduƒánost Podgorica",
+    "team": "FK Buducnost Podgorica",
     "nation": "MNE",
     "league": 1,
     "uefa": 0,
@@ -3769,7 +3769,7 @@
   },
   {
     "pos": 472,
-    "team": "Wieczysta Krak√≥w",
+    "team": "Wieczysta KrakÛw",
     "nation": "POL",
     "league": 1,
     "uefa": 0,
@@ -3849,7 +3849,7 @@
   },
   {
     "pos": 482,
-    "team": "FK Radniƒçki 1923 Kragujevac",
+    "team": "FK Radnicki 1923 Kragujevac",
     "nation": "SRB",
     "league": 1,
     "uefa": 0,
@@ -3857,7 +3857,7 @@
   },
   {
     "pos": 483,
-    "team": "FK ≈Ωelezniƒçar Panƒçevo",
+    "team": "FK éeleznicar Pancevo",
     "nation": "SRB",
     "league": 1,
     "uefa": 0,
@@ -3881,7 +3881,7 @@
   },
   {
     "pos": 486,
-    "team": "FK Ko≈°ice",
+    "team": "FK Koöice",
     "nation": "SVK",
     "league": 1,
     "uefa": 0,
@@ -3961,7 +3961,7 @@
   },
   {
     "pos": 496,
-    "team": "Valur Reykjav√≠k",
+    "team": "Valur ReykjavÌk",
     "nation": "ISL",
     "league": 0,
     "uefa": 1,
@@ -3977,7 +3977,7 @@
   },
   {
     "pos": 498,
-    "team": "VMFD ≈Ωalgiris Vilnius",
+    "team": "VMFD éalgiris Vilnius",
     "nation": "LTU",
     "league": 0,
     "uefa": 1,
@@ -4001,7 +4001,7 @@
   },
   {
     "pos": 501,
-    "team": "FK Sutjeska Nik≈°iƒá",
+    "team": "FK Sutjeska Niköic",
     "nation": "MNE",
     "league": 0,
     "uefa": 1,
@@ -4017,7 +4017,7 @@
   },
   {
     "pos": 503,
-    "team": "IFK G√∂teborg",
+    "team": "IFK Gˆteborg",
     "nation": "SWE",
     "league": 0,
     "uefa": 1,
@@ -4033,7 +4033,7 @@
   },
   {
     "pos": 505,
-    "team": "Atl√®tic Club d'Escaldes",
+    "team": "AtlËtic Club d'Escaldes",
     "nation": "AND",
     "league": 0,
     "uefa": 0,
@@ -4049,7 +4049,7 @@
   },
   {
     "pos": 507,
-    "team": "FK Vele≈æ Mostar",
+    "team": "FK Veleû Mostar",
     "nation": "BIH",
     "league": 0,
     "uefa": 0,
@@ -4129,7 +4129,7 @@
   },
   {
     "pos": 517,
-    "team": "FK Panevƒó≈æys",
+    "team": "FK Paneveûys",
     "nation": "LTU",
     "league": 0,
     "uefa": 0,
@@ -4153,7 +4153,7 @@
   },
   {
     "pos": 520,
-    "team": "FK LiepƒÅja",
+    "team": "FK Liepaja",
     "nation": "LVA",
     "league": 0,
     "uefa": 0,
@@ -4193,7 +4193,7 @@
   },
   {
     "pos": 525,
-    "team": "FK Deƒçiƒá",
+    "team": "FK Decic",
     "nation": "MNE",
     "league": 0,
     "uefa": 0,

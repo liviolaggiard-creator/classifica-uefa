@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classifica & Statistiche UEFA</title>
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --card-bg: #1e293b;
+            --text-color: #f8fafc;
+            --accent-color: #38bdf8;
+            --border-color: #334155;
+            --gold: #eab308;
+            --silver: #94a3b8;
+            --bronze: #d97706;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 24px;
+            display: flex;
+            justify-content: center;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 1000px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 24px;
+        }
+
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 8px;
+            color: var(--accent-color);
+        }
+
+        /* --- STILE SCHEDE (TABS) --- */
+        .tab-buttons {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 20px;
+            border-bottom: 2px solid var(--border-color);
+            padding-bottom: 8px;
+        }
+
+        .tab-btn {
+            background-color: transparent;
+            color: var(--text-color);
+            border: none;
+            padding: 10px 20px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            border-radius: 8px;
+            transition: all 0.2s ease;
+        }
+
+        .tab-btn:hover {
+            background-color: var(--card-bg);
+        }
+
+        .tab-btn.active {
+            background-color: var(--accent-color);
+            color: #0f172a;
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        /* --- CONTROLLI TABELLA --- */
+        .controls {
+            display: flex;
+            gap: 12px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+
+        input, select {
+            padding: 10px 14px;
+            border-radius: 8px;
+            border: 1px solid var(--border-color);
+            background-color: var(--card-bg);
+            color: var(--text-color);
+            font-size: 0.95rem;
+            outline: none;
+        }
+
+        input { flex: 1; min-width: 200px; }
+
+        .table-container {
+            background-color: var(--card-bg);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+            border: 1px solid var(--border-color);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: left;
+        }
+
+        th {
+            background-color: #0f172a;
+            padding: 14px 16px;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--accent-color);
+            cursor: pointer;
+            user-select: none;
+        }
+
+        th:hover { background-color: #1a2638; }
+
+        td {
+            padding: 12px 16px;
+            border-bottom: 1px solid var(--border-color);
+            font-size: 0.95rem;
+        }
+
+        tr:last-child td { border-bottom: none; }
+        tr:hover { background-color: #26334d; }
+
+        /* --- ELEMENTI TABELLA --- */
+        .pos { text-align: center; font-weight: bold; width: 60px; }
+        .pos-1 { color: var(--gold); }
+        .pos-2 { color: var(--silver); }
+        .pos-3 { color: var(--bronze); }
+
+        .team-cell { display: flex; align-items: center; gap: 12px; }
+        .team-logo { width: 24px; height: 24px; object-fit: contain; }
+        .nation-cell { display: flex; align-items: center; }
+        .flag-icon { width: 20px; height: 15px; border-radius: 2px; margin-right: 6px; }
+
+        .badge {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 4px;
+            background-color: var(--border-color);
+            font-size: 0.8rem;
+            font-weight: 600;
+        }
+
+        .num { text-align: right; }
+        .total { font-weight: bold; color: var(--accent-color); }
+
+        /* --- GRAFICI BARRE PER NAZIONE --- */
+        .stats-container {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        .stat-card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 10px;
+            padding: 16px;
+        }
+
+        .stat-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+
+        .bar-background {
+            background-color: #0f172a;
+            height: 12px;
+            border-radius: 6px;
+            overflow: hidden;
+        }
+
+        .bar-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #0284c7, var(--accent-color));
+            border-radius: 6px;
+            transition: width 0.5s ease;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>🏆 Ranking & Statistiche UEFA</h1>
+        <p>Analisi aggiornata punteggi e performance per nazione</p>
+    </header>
+
+    <!-- Pulsanti Schede -->
+    <div class="tab-buttons">
+        <button class="tab-btn active" onclick="switchTab('classifica')">Classifica Generale</button>
+        <button class="tab-btn" onclick="switchTab('nazioni')">Media Punti Nazioni</button>
+    </div>
+
+    <!-- Scheda 1: Classifica Generale -->
+    <div id="tab-classifica" class="tab-content active">
+        <div class="controls">
+            <input type="text" id="searchInput" placeholder="Cerca squadra..." oninput="filterData()">
+            <select id="nationSelect" onchange="filterData()">
+                <option value="">Tutte le Nazioni</option>
+            </select>
+        </div>
+
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th onclick="sortTable('pos')" class="pos">Pos</th>
+                        <th onclick="sortTable('team')">Squadra</th>
+                        <th onclick="sortTable('nation')">Nazione</th>
+                        <th onclick="sortTable('league')" class="num">League</th>
+                        <th onclick="sortTable('uefa')" class="num">UEFA</th>
+                        <th onclick="sortTable('total')" class="num">Totale</th>
+                    </tr>
+                </thead>
+                <tbody id="tableBody">
+                    <!-- Dati caricati via Javascript -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- Scheda 2: Media Punti Nazioni -->
+    <div id="tab-nazioni" class="tab-content">
+        <div id="statsList" class="stats-container">
+            <!-- Grafici barre generati via Javascript -->
+        </div>
+    </div>
+</div>
+
+<script>
+    let rawData = [];
+    let currentSort = { col: 'pos', asc: true };
+
+    const nationFlags = {
+        "ALB": "al", "AND": "ad", "ARM": "am", "AUT": "at", "AZE": "az",
+        "BEL": "be", "BIH": "ba", "BLR": "by", "BUL": "bg", "CRO": "hr",
+        "CYP": "cy", "CZE": "cz", "DEN": "dk", "ENG": "gb-eng", "ESP": "es",
+        "EST": "ee", "FIN": "fi", "FRA": "fr", "GEO": "ge", "GER": "de",
+        "GIB": "gi", "GRE": "gr", "HUN": "hu", "IRL": "ie", "ISL": "is",
+        "ISR": "il", "ITA": "it", "KAZ": "kz", "KOS": "xk", "LIE": "li",
+        "LTU": "lt", "LUX": "lu", "LVA": "lv", "MDA": "md", "MKD": "mk",
+        "MLT": "mt", "MNE": "me", "NED": "nl", "NIR": "gb-nir", "NOR": "no",
+        "POL": "pl", "POR": "pt", "ROU": "ro", "RUS": "ru", "SCO": "gb-sct",
+        "SMR": "sm", "SRB": "rs", "SUI": "ch", "SVK": "sk", "SVN": "si",
+        "SWE": "se", "TUR": "tr", "UKR": "ua", "WAL": "gb-wls"
+    };
+
+    async function loadData() {
+        try {
+            const res = await fetch('classifica.json');
+            rawData = await res.json();
+            populateNationFilter();
+            renderTable(rawData);
+            renderNationStats();
+        } catch (e) {
+            console.error('Errore nel caricamento del JSON:', e);
+        }
+    }
+
+    function switchTab(tabName) {
+        document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+        document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
+
+        if (tabName === 'classifica') {
+            document.querySelectorAll('.tab-btn')[0].classList.add('active');
+            document.getElementById('tab-classifica').classList.add('active');
+        } else {
+            document.querySelectorAll('.tab-btn')[1].classList.add('active');
+            document.getElementById('tab-nazioni').classList.add('active');
+        }
+    }
+
+    function getTeamLogoUrl(teamName) {
+        const slug = teamName.toLowerCase().replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-');
+        return `logos/${slug}.png`;
+    }
+
+    function populateNationFilter() {
+        const select = document.getElementById('nationSelect');
+        const nations = [...new Set(rawData.map(item => item.nation))].sort();
+        nations.forEach(nat => {
+            const opt = document.createElement('option');
+            opt.value = nat;
+            opt.textContent = nat;
+            select.appendChild(opt);
+        });
+    }
+
+    function renderTable(data) {
+        const tbody = document.getElementById('tableBody');
+        tbody.innerHTML = '';
+
+        data.forEach(row => {
+            const tr = document.createElement('tr');
+            
+            let posClass = '';
+            if (row.pos === 1) posClass = 'pos-1';
+            else if (row.pos === 2) posClass = 'pos-2';
+            else if (row.pos === 3) posClass = 'pos-3';
+
+            const isoCode = nationFlags[row.nation] || 'un';
+            const flagUrl = `https://flagcdn.com/24x18/${isoCode}.png`;
+            const logoUrl = getTeamLogoUrl(row.team);
+
+            tr.innerHTML = `
+                <td class="pos ${posClass}">${row.pos}</td>
+                <td>
+                    <div class="team-cell">
+                        <img src="${logoUrl}" class="team-logo" onerror="this.src='logos/default.png';" alt="${row.team}">
+                        <strong>${row.team}</strong>
+                    </div>
+                </td>
+                <td>
+                    <div class="nation-cell">
+                        <img src="${flagUrl}" class="flag-icon" alt="${row.nation}">
+                        <span class="badge">${row.nation}</span>
+                    </div>
+                </td>
+                <td class="num">${row.league}</td>
+                <td class="num">${row.uefa}</td>
+                <td class="num total">${row.total}</td>
+            `;
+            tbody.appendChild(tr);
+        });
+    }
+
+    function renderNationStats() {
+        const container = document.getElementById('statsList');
+        container.innerHTML = '';
+
+        // Aggregazione dati per nazione
+        const statsMap = {};
+        rawData.forEach(item => {
+            if (!statsMap[item.nation]) {
+                statsMap[item.nation] = { totalPoints: 0, count: 0 };
+            }
+            statsMap[item.nation].totalPoints += item.total;
+            statsMap[item.nation].count += 1;
+        });
+
+        // Calcolo medie
+        const statsArray = Object.keys(statsMap).map(nat => {
+            const avg = statsMap[nat].totalPoints / statsMap[nat].count;
+            return {
+                nation: nat,
+                avg: parseFloat(avg.toFixed(2)),
+                count: statsMap[nat].count
+            };
+        });
+
+        // Ordinamento per media punti decrescente
+        statsArray.sort((a, b) => b.avg - a.avg);
+
+        const maxAvg = statsArray.length > 0 ? statsArray[0].avg : 1;
+
+        // Render card e barra dinamica
+        statsArray.forEach(stat => {
+            const isoCode = nationFlags[stat.nation] || 'un';
+            const flagUrl = `https://flagcdn.com/24x18/${isoCode}.png`;
+            const percentage = (stat.avg / maxAvg) * 100;
+
+            const card = document.createElement('div');
+            card.className = 'stat-card';
+            card.innerHTML = `
+                <div class="stat-header">
+                    <div class="nation-cell">
+                        <img src="${flagUrl}" class="flag-icon" alt="${stat.nation}">
+                        <strong>${stat.nation}</strong>
+                        <span style="font-size: 0.85rem; color: #94a3b8; margin-left: 8px;">(${stat.count} ${stat.count === 1 ? 'squadra' : 'squadre'})</span>
+                    </div>
+                    <div>
+                        <span style="font-size: 0.85rem; color: #94a3b8;">Media: </span>
+                        <strong style="color: var(--accent-color);">${stat.avg} pt</strong>
+                    </div>
+                </div>
+                <div class="bar-background">
+                    <div class="bar-fill" style="width: ${percentage}%;"></div>
+                </div>
+            `;
+            container.appendChild(card);
+        });
+    }
+
+    function filterData() {
+        const search = document.getElementById('searchInput').value.toLowerCase();
+        const nation = document.getElementById('nationSelect').value;
+
+        const filtered = rawData.filter(item => {
+            const matchesSearch = item.team.toLowerCase().includes(search);
+            const matchesNation = !nation || item.nation === nation;
+            return matchesSearch && matchesNation;
+        });
+
+        renderTable(filtered);
+    }
+
+    function sortTable(col) {
+        if (currentSort.col === col) {
+            currentSort.asc = !currentSort.asc;
+        } else {
+            currentSort.col = col;
+            currentSort.asc = true;
+        }
+
+        rawData.sort((a, b) => {
+            let valA = a[col];
+            let valB = b[col];
+
+            if (typeof valA === 'string') {
+                return currentSort.asc ? valA.localeCompare(valB) : valB.localeCompare(valA);
+            }
+            return currentSort.asc ? valA - valB : valB - valA;
+        });
+
+        filterData();
+    }
+
+    loadData();
+</script>
+
+</body>
+</html>

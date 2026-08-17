@@ -264,17 +264,24 @@
     };
 
     async function loadData() {
-        try {
-            const res = await fetch('classifica.json');
-            rawData = await res.json();
-            populateNationFilter();
-            renderTable(rawData);
-            renderNationStats();
-        } catch (e) {
-            console.error('Errore nel caricamento del JSON:', e);
-        }
+    try {
+        const res = await fetch('classifica.json');
+        let text = await res.text();
+        
+        // Rimuove eventuali caratteri BOM (U+FEFF) e caratteri invisibili all'inizio del file
+        text = text.replace(/^\uFEFF/, '').trim();
+        
+        // Decodifica il testo pulito
+        rawData = JSON.parse(text);
+        
+        populateNationFilter();
+        renderTable(rawData);
+        renderNationStats();
+    } catch (e) {
+        console.error('Errore nel caricamento del JSON:', e);
     }
-
+}
+    
     function switchTab(tabName) {
         document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
         document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));

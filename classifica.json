@@ -2,6 +2,7 @@
   {
     "pos": 1,
     "team": "FK Bodo - Glimt",
+    "logo": "fk-bodo-glimt",
     "nation": "NOR",
     "league": 18,
     "uefa": 10,
@@ -10,6 +11,7 @@
   {
     "pos": 2,
     "team": "Viking FK",
+    "logo": "viking-fk",
     "nation": "NOR",
     "league": 17,
     "uefa": 10,
@@ -18,6 +20,7 @@
   {
     "pos": 3,
     "team": "FC Shakhtar Donetsk",
+    "logo": "fc-shakhtar-donetsk",
     "nation": "UKR",
     "league": 7,
     "uefa": 20,
@@ -26,6 +29,7 @@
   {
     "pos": 4,
     "team": "SK Slavia Praha",
+    "logo": "sk-slavia-praha",
     "nation": "CZE",
     "league": 9,
     "uefa": 17,
@@ -34,6 +38,7 @@
   {
     "pos": 5,
     "team": "FC Porto",
+    "logo": "fc-porto",
     "nation": "POR",
     "league": 9,
     "uefa": 15,
@@ -42,6 +47,7 @@
   {
     "pos": 6,
     "team": "Club Brugge KV",
+    "logo": "club-brugge-kv",
     "nation": "BEL",
     "league": 8,
     "uefa": 16,
@@ -50,6 +56,7 @@
   {
     "pos": 7,
     "team": "Arsenal FC",
+    "logo": "arsenal-fc",
     "nation": "ENG",
     "league": 9,
     "uefa": 14,
@@ -58,6 +65,7 @@
   {
     "pos": 8,
     "team": "Aston Villa FC",
+    "logo": "aston-villa-fc",
     "nation": "ENG",
     "league": 9,
     "uefa": 14,
@@ -66,6 +74,7 @@
   {
     "pos": 9,
     "team": "Liverpool FC",
+    "logo": "liverpool-fc",
     "nation": "ENG",
     "league": 9,
     "uefa": 14,
@@ -74,6 +83,7 @@
   {
     "pos": 10,
     "team": "Manchester City FC",
+    "logo": "manchester-city-fc",
     "nation": "ENG",
     "league": 9,
     "uefa": 14,
@@ -82,6 +92,7 @@
   {
     "pos": 11,
     "team": "Manchester United FC",
+    "logo": "manchester-united-fc",
     "nation": "ENG",
     "league": 9,
     "uefa": 14,
@@ -90,6 +101,7 @@
   {
     "pos": 12,
     "team": "Villarreal CF",
+    "logo": "villarreal-cf",
     "nation": "ESP",
     "league": 9,
     "uefa": 14,
@@ -98,6 +110,7 @@
   {
     "pos": 13,
     "team": "Feyenoord Rotterdam",
+    "logo": "feyenoord-rotterdam",
     "nation": "NED",
     "league": 7,
     "uefa": 16,
@@ -106,6 +119,7 @@
   {
     "pos": 14,
     "team": "PSV Eindhoven",
+    "logo": "psv-eindhoven",
     "nation": "NED",
     "league": 7,
     "uefa": 16,
@@ -114,6 +128,7 @@
   {
     "pos": 15,
     "team": "Club Atlético de Madrid",
+    "logo": "club-atletico-de-madrid",
     "nation": "ESP",
     "league": 8,
     "uefa": 14,
@@ -122,6 +137,7 @@
   {
     "pos": 16,
     "team": "FC Bayern München",
+    "logo": "fc-bayern-munchen",
     "nation": "GER",
     "league": 8,
     "uefa": 14,
@@ -130,6 +146,7 @@
   {
     "pos": 17,
     "team": "BVB 09 Borussia Dortmund",
+    "logo": "bvb-09-borussia-dortmund",
     "nation": "GER",
     "league": 8,
     "uefa": 14,
@@ -138,6 +155,7 @@
   {
     "pos": 18,
     "team": "Sporting Clube de Portugal",
+    "logo": "sporting-clube-de-portugal",
     "nation": "POR",
     "league": 7,
     "uefa": 15,
@@ -146,6 +164,7 @@
   {
     "pos": 19,
     "team": "FC Barcelona",
+    "logo": "fc-barcelona",
     "nation": "ESP",
     "league": 7,
     "uefa": 14,
@@ -154,6 +173,7 @@
   {
     "pos": 20,
     "team": "Real Betis Balompié",
+    "logo": "real-betis-balompie",
     "nation": "ESP",
     "league": 7,
     "uefa": 14,
@@ -162,6 +182,7 @@
   {
     "pos": 21,
     "team": "Real Madrid CF",
+    "logo": "real-madrid-cf",
     "nation": "ESP",
     "league": 7,
     "uefa": 14,
@@ -170,6 +191,7 @@
   {
     "pos": 22,
     "team": "Racing Club de Lens",
+    "logo": "racing-club-de-lens",
     "nation": "FRA",
     "league": 7,
     "uefa": 14,
@@ -178,6 +200,7 @@
   {
     "pos": 23,
     "team": "Lille OSC Métropole",
+    "logo": "lille-osc-metropole",
     "nation": "FRA",
     "league": 7,
     "uefa": 14,
@@ -186,6 +209,7 @@
   {
     "pos": 24,
     "team": "Paris Saint-Germain FC",
+    "logo": "paris-saint-germain-fc",
     "nation": "FRA",
     "league": 7,
     "uefa": 14,
@@ -194,6 +218,7 @@
   {
     "pos": 25,
     "team": "Rasen Ballsport Leipzig",
+    "logo": "rasen-ballsport-leipzig",
     "nation": "GER",
     "league": 7,
     "uefa": 14,
@@ -202,6 +227,7 @@
   {
     "pos": 26,
     "team": "VfB Stuttgart 1893",
+    "logo": "vfb-stuttgart-1893",
     "nation": "GER",
     "league": 7,
     "uefa": 14,
@@ -210,6 +236,7 @@
   {
     "pos": 27,
     "team": "Calcio Como",
+    "logo": "calcio-como",
     "nation": "ITA",
     "league": 7,
     "uefa": 14,
@@ -218,6 +245,7 @@
   {
     "pos": 28,
     "team": "FC Internazionale Milano",
+    "logo": "fc-internazionale-milano",
     "nation": "ITA",
     "league": 7,
     "uefa": 14,
@@ -226,6 +254,7 @@
   {
     "pos": 29,
     "team": "SSC Napoli",
+    "logo": "ssc-napoli",
     "nation": "ITA",
     "league": 7,
     "uefa": 14,
@@ -234,6 +263,7 @@
   {
     "pos": 30,
     "team": "AS Roma",
+    "logo": "as-roma",
     "nation": "ITA",
     "league": 7,
     "uefa": 14,
@@ -242,6 +272,7 @@
   {
     "pos": 31,
     "team": "LASK Linz",
+    "logo": "lask-linz",
     "nation": "AUT",
     "league": 10,
     "uefa": 10,
@@ -250,6 +281,7 @@
   {
     "pos": 32,
     "team": "Galatasaray",
+    "logo": "galatasaray",
     "nation": "TUR",
     "league": 3,
     "uefa": 17,
@@ -258,6 +290,7 @@
   {
     "pos": 33,
     "team": "Celtic FC",
+    "logo": "celtic-fc",
     "nation": "SCO",
     "league": 8,
     "uefa": 11,
@@ -266,6 +299,7 @@
   {
     "pos": 34,
     "team": "SK Sturm Graz",
+    "logo": "sk-sturm-graz",
     "nation": "AUT",
     "league": 8,
     "uefa": 10,
@@ -274,6 +308,7 @@
   {
     "pos": 35,
     "team": "Kuopion Palloseura",
+    "logo": "kuopion-palloseura",
     "nation": "FIN",
     "league": 12,
     "uefa": 5,
@@ -282,6 +317,7 @@
   {
     "pos": 36,
     "team": "Víkingur Reykjavík",
+    "logo": "vikingur-reykjavik",
     "nation": "ISL",
     "league": 12,
     "uefa": 5,
@@ -290,6 +326,7 @@
   {
     "pos": 37,
     "team": "Alkmaar Zaanstreek",
+    "logo": "alkmaar-zaanstreek",
     "nation": "NED",
     "league": 9,
     "uefa": 8,
@@ -298,6 +335,7 @@
   {
     "pos": 38,
     "team": "PFC Levski Sofia",
+    "logo": "pfc-levski-sofia",
     "nation": "BUL",
     "league": 6,
     "uefa": 11,
@@ -306,6 +344,7 @@
   {
     "pos": 39,
     "team": "Sabah FK",
+    "logo": "sabah-fk",
     "nation": "AZE",
     "league": 5,
     "uefa": 12,
@@ -314,6 +353,7 @@
   {
     "pos": 40,
     "team": "ŠK Slovan Bratislava",
+    "logo": "sk-slovan-bratislava",
     "nation": "SVK",
     "league": 4,
     "uefa": 13,
@@ -322,6 +362,7 @@
   {
     "pos": 41,
     "team": "NK Celje",
+    "logo": "nk-celje",
     "nation": "SVN",
     "league": 4,
     "uefa": 13,
@@ -330,6 +371,7 @@
   {
     "pos": 42,
     "team": "Shamrock Rovers FC",
+    "logo": "shamrock-rovers-fc",
     "nation": "IRL",
     "league": 11,
     "uefa": 5,
@@ -338,6 +380,7 @@
   {
     "pos": 43,
     "team": "FK Kairat Almaty",
+    "logo": "fk-kairat-almaty",
     "nation": "KAZ",
     "league": 7,
     "uefa": 9,
@@ -346,6 +389,7 @@
   {
     "pos": 44,
     "team": "GNK Dinamo Zagreb",
+    "logo": "gnk-dinamo-zagreb",
     "nation": "CRO",
     "league": 5,
     "uefa": 11,
@@ -354,6 +398,7 @@
   {
     "pos": 45,
     "team": "IK Sirius Fotboll",
+    "logo": "ik-sirius-fotboll",
     "nation": "SWE",
     "league": 15,
     "uefa": 0,
@@ -362,6 +407,7 @@
   {
     "pos": 46,
     "team": "AFC Bournemouth",
+    "logo": "afc-bournemouth",
     "nation": "ENG",
     "league": 9,
     "uefa": 6,
@@ -370,6 +416,7 @@
   {
     "pos": 47,
     "team": "Crystal Palace FC",
+    "logo": "crystal-palace-fc",
     "nation": "ENG",
     "league": 9,
     "uefa": 6,
@@ -378,6 +425,7 @@
   {
     "pos": 48,
     "team": "FC Avan Academy",
+    "logo": "fc-avan-academy",
     "nation": "ARM",
     "league": 6,
     "uefa": 9,
@@ -386,6 +434,7 @@
   {
     "pos": 49,
     "team": "AEK Athens FC",
+    "logo": "aek-athens-fc",
     "nation": "GRE",
     "league": 5,
     "uefa": 10,
@@ -394,6 +443,7 @@
   {
     "pos": 50,
     "team": "Riga FC",
+    "logo": "riga-fc",
     "nation": "LVA",
     "league": 9,
     "uefa": 5,
@@ -402,6 +452,7 @@
   {
     "pos": 51,
     "team": "FC Salzburg",
+    "logo": "fc-salzburg",
     "nation": "AUT",
     "league": 8,
     "uefa": 6,
@@ -410,6 +461,7 @@
   {
     "pos": 52,
     "team": "Sunderland AFC",
+    "logo": "sunderland-afc",
     "nation": "ENG",
     "league": 8,
     "uefa": 6,
@@ -418,6 +470,7 @@
   {
     "pos": 53,
     "team": "Real Club Celta de Vigo",
+    "logo": "real-club-celta-de-vigo",
     "nation": "ESP",
     "league": 8,
     "uefa": 6,
@@ -426,6 +479,7 @@
   {
     "pos": 54,
     "team": "Bayer 04 Leverkusen",
+    "logo": "bayer-04-leverkusen",
     "nation": "GER",
     "league": 8,
     "uefa": 6,
@@ -434,6 +488,7 @@
   {
     "pos": 55,
     "team": "TSG 1899 Hoffenheim",
+    "logo": "tsg-1899-hoffenheim",
     "nation": "GER",
     "league": 8,
     "uefa": 6,
@@ -442,6 +497,7 @@
   {
     "pos": 56,
     "team": "PFC CSKA Sofia",
+    "logo": "pfc-cska-sofia",
     "nation": "BUL",
     "league": 7,
     "uefa": 7,
@@ -450,6 +506,7 @@
   {
     "pos": 57,
     "team": "Royal Union Saint-Gilloise",
+    "logo": "royal-union-saint-gilloise",
     "nation": "BEL",
     "league": 6,
     "uefa": 8,
@@ -458,6 +515,7 @@
   {
     "pos": 58,
     "team": "AC Sparta Praha",
+    "logo": "ac-sparta-praha",
     "nation": "CZE",
     "league": 5,
     "uefa": 9,
@@ -466,6 +524,7 @@
   {
     "pos": 59,
     "team": "FK Kauno Žalgiris",
+    "logo": "fk-kauno-zalgiris",
     "nation": "LTU",
     "league": 5,
     "uefa": 9,
@@ -474,6 +533,7 @@
   {
     "pos": 60,
     "team": "Olympiakos CFP",
+    "logo": "olympiakos-cfp",
     "nation": "GRE",
     "league": 4,
     "uefa": 10,
@@ -482,6 +542,7 @@
   {
     "pos": 61,
     "team": "Hapoel Be'er Sheva FC",
+    "logo": "hapoel-beer-sheva-fc",
     "nation": "ISR",
     "league": 3,
     "uefa": 11,
@@ -490,6 +551,7 @@
   {
     "pos": 62,
     "team": "Tromsø IL",
+    "logo": "tromso-il",
     "nation": "NOR",
     "league": 11,
     "uefa": 2,
@@ -498,6 +560,7 @@
   {
     "pos": 63,
     "team": "FC Inter Turku",
+    "logo": "fc-inter-turku",
     "nation": "FIN",
     "league": 8,
     "uefa": 5,
@@ -506,6 +569,7 @@
   {
     "pos": 64,
     "team": "Real Sociedad de Fútbol",
+    "logo": "real-sociedad-de-futbol",
     "nation": "ESP",
     "league": 7,
     "uefa": 6,
@@ -514,6 +578,7 @@
   {
     "pos": 65,
     "team": "Olympique Lyonnais",
+    "logo": "olympique-lyonnais",
     "nation": "FRA",
     "league": 7,
     "uefa": 6,
@@ -522,6 +587,7 @@
   {
     "pos": 66,
     "team": "Olympique de Marseille",
+    "logo": "olympique-de-marseille",
     "nation": "FRA",
     "league": 7,
     "uefa": 6,
@@ -530,6 +596,7 @@
   {
     "pos": 67,
     "team": "Stade Rennais FC",
+    "logo": "stade-rennais-fc",
     "nation": "FRA",
     "league": 7,
     "uefa": 6,
@@ -538,6 +605,7 @@
   {
     "pos": 68,
     "team": "AC Milan",
+    "logo": "ac-milan",
     "nation": "ITA",
     "league": 7,
     "uefa": 6,
@@ -546,6 +614,7 @@
   {
     "pos": 69,
     "team": "Juventus FC",
+    "logo": "juventus-fc",
     "nation": "ITA",
     "league": 7,
     "uefa": 6,
@@ -554,6 +623,7 @@
   {
     "pos": 70,
     "team": "Nijmegen Eendracht Combinatie",
+    "logo": "nijmegen-eendracht-combinatie",
     "nation": "NED",
     "league": 5,
     "uefa": 8,
@@ -562,6 +632,7 @@
   {
     "pos": 71,
     "team": "FC Saburtalo Tbilisi",
+    "logo": "fc-saburtalo-tbilisi",
     "nation": "GEO",
     "league": 4,
     "uefa": 9,
@@ -570,6 +641,7 @@
   {
     "pos": 72,
     "team": "Red Star Belgrade",
+    "logo": "red-star-belgrade",
     "nation": "SRB",
     "league": 4,
     "uefa": 9,
@@ -578,6 +650,7 @@
   {
     "pos": 73,
     "team": "SK Rapid Wien",
+    "logo": "sk-rapid-wien",
     "nation": "AUT",
     "league": 10,
     "uefa": 2,
@@ -586,6 +659,7 @@
   {
     "pos": 74,
     "team": "Inter Club d'Escaldes",
+    "logo": "inter-club-descaldes",
     "nation": "AND",
     "league": 6,
     "uefa": 6,
@@ -594,6 +668,7 @@
   {
     "pos": 75,
     "team": "Deportivo Alavés",
+    "logo": "deportivo-alaves",
     "nation": "ESP",
     "league": 11,
     "uefa": 0,
@@ -602,6 +677,7 @@
   {
     "pos": 76,
     "team": "Reial Club Deportiu Espanyol",
+    "logo": "reial-club-deportiu-espanyol",
     "nation": "ESP",
     "league": 11,
     "uefa": 0,
@@ -610,6 +686,7 @@
   {
     "pos": 77,
     "team": "Sevilla FC",
+    "logo": "sevilla-fc",
     "nation": "ESP",
     "league": 11,
     "uefa": 0,
@@ -618,6 +695,7 @@
   {
     "pos": 78,
     "team": "FK Ordabasy Shymkent",
+    "logo": "fk-ordabasy-shymkent",
     "nation": "KAZ",
     "league": 11,
     "uefa": 0,
@@ -626,6 +704,7 @@
   {
     "pos": 79,
     "team": "FC Lugano",
+    "logo": "fc-lugano",
     "nation": "SUI",
     "league": 7,
     "uefa": 4,
@@ -634,6 +713,7 @@
   {
     "pos": 80,
     "team": "Beşiktaş",
+    "logo": "beikta",
     "nation": "TUR",
     "league": 6,
     "uefa": 5,
@@ -642,6 +722,7 @@
   {
     "pos": 81,
     "team": "KKS Lech Poznań",
+    "logo": "kks-lech-pozna",
     "nation": "POL",
     "league": 4,
     "uefa": 7,
@@ -650,6 +731,7 @@
   {
     "pos": 82,
     "team": "KS Egnatia Rrogozhinë",
+    "logo": "ks-egnatia-rrogozhine",
     "nation": "ALB",
     "league": 2,
     "uefa": 9,
@@ -658,6 +740,7 @@
   {
     "pos": 83,
     "team": "Fenerbahçe",
+    "logo": "fenerbahce",
     "nation": "TUR",
     "league": 2,
     "uefa": 9,
@@ -666,6 +749,7 @@
   {
     "pos": 84,
     "team": "Tallinna FC Levadia",
+    "logo": "tallinna-fc-levadia",
     "nation": "EST",
     "league": 10,
     "uefa": 0,
@@ -674,6 +758,7 @@
   {
     "pos": 85,
     "team": "FK Rīgas Futbola skola",
+    "logo": "fk-rgas-futbola-skola",
     "nation": "LVA",
     "league": 9,
     "uefa": 1,
@@ -682,6 +767,7 @@
   {
     "pos": 86,
     "team": "NSÍ Runavík",
+    "logo": "nsi-runavik",
     "nation": "FRO",
     "league": 8,
     "uefa": 2,
@@ -690,6 +776,7 @@
   {
     "pos": 87,
     "team": "FC København",
+    "logo": "fc-kobenhavn",
     "nation": "DEN",
     "league": 7,
     "uefa": 3,
@@ -698,6 +785,7 @@
   {
     "pos": 88,
     "team": "OFI FC",
+    "logo": "ofi-fc",
     "nation": "GRE",
     "league": 4,
     "uefa": 6,
@@ -706,6 +794,7 @@
   {
     "pos": 89,
     "team": "Lillestrøm SK",
+    "logo": "lillestrom-sk",
     "nation": "NOR",
     "league": 4,
     "uefa": 6,
@@ -714,6 +803,7 @@
   {
     "pos": 90,
     "team": "SSA Jagiellonia Białystok",
+    "logo": "ssa-jagiellonia-biaystok",
     "nation": "POL",
     "league": 3,
     "uefa": 7,
@@ -722,6 +812,7 @@
   {
     "pos": 91,
     "team": "FC Thun",
+    "logo": "fc-thun",
     "nation": "SUI",
     "league": 2,
     "uefa": 8,
@@ -730,6 +821,7 @@
   {
     "pos": 92,
     "team": "CS Universitatea Craiova",
+    "logo": "cs-universitatea-craiova",
     "nation": "ROU",
     "league": 1,
     "uefa": 9,
@@ -738,6 +830,7 @@
   {
     "pos": 93,
     "team": "PFC Ludogorets 1945 Razgrad",
+    "logo": "pfc-ludogorets-1945-razgrad",
     "nation": "BUL",
     "league": 9,
     "uefa": 0,
@@ -746,6 +839,7 @@
   {
     "pos": 94,
     "team": "Brentford FC",
+    "logo": "brentford-fc",
     "nation": "ENG",
     "league": 9,
     "uefa": 0,
@@ -754,6 +848,7 @@
   {
     "pos": 95,
     "team": "Brighton & Hove Albion FC",
+    "logo": "brighton-hove-albion-fc",
     "nation": "ENG",
     "league": 9,
     "uefa": 0,
@@ -762,6 +857,7 @@
   {
     "pos": 96,
     "team": "Chelsea FC",
+    "logo": "chelsea-fc",
     "nation": "ENG",
     "league": 9,
     "uefa": 0,
@@ -770,6 +866,7 @@
   {
     "pos": 97,
     "team": "Coventry City FC",
+    "logo": "coventry-city-fc",
     "nation": "ENG",
     "league": 9,
     "uefa": 0,
@@ -778,6 +875,7 @@
   {
     "pos": 98,
     "team": "Everton FC",
+    "logo": "everton-fc",
     "nation": "ENG",
     "league": 9,
     "uefa": 0,
@@ -786,6 +884,7 @@
   {
     "pos": 99,
     "team": "Fulham FC",
+    "logo": "fulham-fc",
     "nation": "ENG",
     "league": 9,
     "uefa": 0,
@@ -794,6 +893,7 @@
   {
     "pos": 100,
     "team": "Hull City AFC",
+    "logo": "hull-city-afc",
     "nation": "ENG",
     "league": 9,
     "uefa": 0,
@@ -802,6 +902,7 @@
   {
     "pos": 101,
     "team": "Ipswich Town FC",
+    "logo": "ipswich-town-fc",
     "nation": "ENG",
     "league": 9,
     "uefa": 0,
@@ -810,6 +911,7 @@
   {
     "pos": 102,
     "team": "Leeds United FC",
+    "logo": "leeds-united-fc",
     "nation": "ENG",
     "league": 9,
     "uefa": 0,
@@ -818,6 +920,7 @@
   {
     "pos": 103,
     "team": "Real Racing Club de Santander",
+    "logo": "real-racing-club-de-santander",
     "nation": "ESP",
     "league": 9,
     "uefa": 0,
@@ -826,6 +929,7 @@
   {
     "pos": 104,
     "team": "FC Groningen",
+    "logo": "fc-groningen",
     "nation": "NED",
     "league": 9,
     "uefa": 0,
@@ -834,6 +938,7 @@
   {
     "pos": 105,
     "team": "FC Arouca",
+    "logo": "fc-arouca",
     "nation": "POR",
     "league": 9,
     "uefa": 0,
@@ -842,6 +947,7 @@
   {
     "pos": 106,
     "team": "CS Marítimo Funchal",
+    "logo": "cs-maritimo-funchal",
     "nation": "POR",
     "league": 9,
     "uefa": 0,
@@ -850,6 +956,7 @@
   {
     "pos": 107,
     "team": "FK Jablonec",
+    "logo": "fk-jablonec",
     "nation": "CZE",
     "league": 8,
     "uefa": 1,
@@ -858,6 +965,7 @@
   {
     "pos": 108,
     "team": "KS Górnik Zabrze",
+    "logo": "ks-gornik-zabrze",
     "nation": "POL",
     "league": 6,
     "uefa": 3,
@@ -866,6 +974,7 @@
   {
     "pos": 109,
     "team": "FC Sankt Gallen 1879",
+    "logo": "fc-sankt-gallen-1879",
     "nation": "SUI",
     "league": 5,
     "uefa": 4,
@@ -874,6 +983,7 @@
   {
     "pos": 110,
     "team": "FC Sion",
+    "logo": "fc-sion",
     "nation": "SUI",
     "league": 5,
     "uefa": 4,
@@ -882,6 +992,7 @@
   {
     "pos": 111,
     "team": "FC Viktoria Plzeň",
+    "logo": "fc-viktoria-plze",
     "nation": "CZE",
     "league": 4,
     "uefa": 5,
@@ -890,6 +1001,7 @@
   {
     "pos": 112,
     "team": "Trabzonspor",
+    "logo": "trabzonspor",
     "nation": "TUR",
     "league": 4,
     "uefa": 5,
@@ -898,6 +1010,7 @@
   {
     "pos": 113,
     "team": "KF Drita",
+    "logo": "kf-drita",
     "nation": "KOS",
     "league": 3,
     "uefa": 6,
@@ -906,6 +1019,7 @@
   {
     "pos": 114,
     "team": "AC Omonia Nicosia",
+    "logo": "ac-omonia-nicosia",
     "nation": "CYP",
     "league": 1,
     "uefa": 8,
@@ -914,6 +1028,7 @@
   {
     "pos": 115,
     "team": "Ferencvárosi TC",
+    "logo": "ferencvarosi-tc",
     "nation": "HUN",
     "league": 0,
     "uefa": 9,
@@ -922,6 +1037,7 @@
   {
     "pos": 116,
     "team": "Mjällby AIF",
+    "logo": "mjallby-aif",
     "nation": "SWE",
     "league": 0,
     "uefa": 9,
@@ -930,6 +1046,7 @@
   {
     "pos": 117,
     "team": "Royal Antwerp FC",
+    "logo": "royal-antwerp-fc",
     "nation": "BEL",
     "league": 8,
     "uefa": 0,
@@ -938,6 +1055,7 @@
   {
     "pos": 118,
     "team": "KAA Gent",
+    "logo": "kaa-gent",
     "nation": "BEL",
     "league": 8,
     "uefa": 0,
@@ -946,6 +1064,7 @@
   {
     "pos": 119,
     "team": "Sporting du Pays de Charleroi",
+    "logo": "sporting-du-pays-de-charleroi",
     "nation": "BEL",
     "league": 8,
     "uefa": 0,
@@ -954,6 +1073,7 @@
   {
     "pos": 120,
     "team": "NK Osijek",
+    "logo": "nk-osijek",
     "nation": "CRO",
     "league": 8,
     "uefa": 0,
@@ -962,6 +1082,7 @@
   {
     "pos": 121,
     "team": "NK Varaždin",
+    "logo": "nk-varazdin",
     "nation": "CRO",
     "league": 8,
     "uefa": 0,
@@ -970,6 +1091,7 @@
   {
     "pos": 122,
     "team": "Newcastle United FC",
+    "logo": "newcastle-united-fc",
     "nation": "ENG",
     "league": 8,
     "uefa": 0,
@@ -978,6 +1100,7 @@
   {
     "pos": 123,
     "team": "Nottingham Forest FC",
+    "logo": "nottingham-forest-fc",
     "nation": "ENG",
     "league": 8,
     "uefa": 0,
@@ -986,6 +1109,7 @@
   {
     "pos": 124,
     "team": "Tottenham Hotspur FC",
+    "logo": "tottenham-hotspur-fc",
     "nation": "ENG",
     "league": 8,
     "uefa": 0,
@@ -994,6 +1118,7 @@
   {
     "pos": 125,
     "team": "Athletic Club Bilbao",
+    "logo": "athletic-club-bilbao",
     "nation": "ESP",
     "league": 8,
     "uefa": 0,
@@ -1002,6 +1127,7 @@
   {
     "pos": 126,
     "team": "CA Osasuna",
+    "logo": "ca-osasuna",
     "nation": "ESP",
     "league": 8,
     "uefa": 0,
@@ -1010,6 +1136,7 @@
   {
     "pos": 127,
     "team": "Angers SCO",
+    "logo": "angers-sco",
     "nation": "FRA",
     "league": 8,
     "uefa": 0,
@@ -1018,6 +1145,7 @@
   {
     "pos": 128,
     "team": "Auxerre",
+    "logo": "auxerre",
     "nation": "FRA",
     "league": 8,
     "uefa": 0,
@@ -1026,6 +1154,7 @@
   {
     "pos": 129,
     "team": "FC Rustavi",
+    "logo": "fc-rustavi",
     "nation": "GEO",
     "league": 8,
     "uefa": 0,
@@ -1034,6 +1163,7 @@
   {
     "pos": 130,
     "team": "FC Augsburg",
+    "logo": "fc-augsburg",
     "nation": "GER",
     "league": 8,
     "uefa": 0,
@@ -1042,6 +1172,7 @@
   {
     "pos": 131,
     "team": "Borussia VfL Mönchengladbach",
+    "logo": "borussia-vfl-monchengladbach",
     "nation": "GER",
     "league": 8,
     "uefa": 0,
@@ -1050,6 +1181,7 @@
   {
     "pos": 132,
     "team": "Eintracht Frankfurt",
+    "logo": "eintracht-frankfurt",
     "nation": "GER",
     "league": 8,
     "uefa": 0,
@@ -1058,6 +1190,7 @@
   {
     "pos": 133,
     "team": "SV 07 Elversberg",
+    "logo": "sv-07-elversberg",
     "nation": "GER",
     "league": 8,
     "uefa": 0,
@@ -1066,6 +1199,7 @@
   {
     "pos": 134,
     "team": "SC Freiburg",
+    "logo": "sc-freiburg",
     "nation": "GER",
     "league": 8,
     "uefa": 0,
@@ -1074,6 +1208,7 @@
   {
     "pos": 135,
     "team": "Hamburger SV",
+    "logo": "hamburger-sv",
     "nation": "GER",
     "league": 8,
     "uefa": 0,
@@ -1082,6 +1217,7 @@
   {
     "pos": 136,
     "team": "Saint Mirren FC",
+    "logo": "saint-mirren-fc",
     "nation": "SCO",
     "league": 8,
     "uefa": 0,
@@ -1090,6 +1226,7 @@
   {
     "pos": 137,
     "team": "FC Nordsjælland",
+    "logo": "fc-nordsjalland",
     "nation": "DEN",
     "league": 5,
     "uefa": 3,
@@ -1098,6 +1235,7 @@
   {
     "pos": 138,
     "team": "FC Midtjylland",
+    "logo": "fc-midtjylland",
     "nation": "DEN",
     "league": 5,
     "uefa": 3,
@@ -1106,6 +1244,7 @@
   {
     "pos": 139,
     "team": "Motherwell FC",
+    "logo": "motherwell-fc",
     "nation": "SCO",
     "league": 5,
     "uefa": 3,
@@ -1114,6 +1253,7 @@
   {
     "pos": 140,
     "team": "RSC Anderlecht",
+    "logo": "rsc-anderlecht",
     "nation": "BEL",
     "league": 4,
     "uefa": 4,
@@ -1122,6 +1262,7 @@
   {
     "pos": 141,
     "team": "KS Dinamo Tirana",
+    "logo": "ks-dinamo-tirana",
     "nation": "ALB",
     "league": 3,
     "uefa": 5,
@@ -1130,6 +1271,7 @@
   {
     "pos": 142,
     "team": "FK Borac Banja Luka",
+    "logo": "fk-borac-banja-luka",
     "nation": "BIH",
     "league": 2,
     "uefa": 6,
@@ -1138,6 +1280,7 @@
   {
     "pos": 143,
     "team": "KÍ Klaksvík",
+    "logo": "ki-klaksvik",
     "nation": "FRO",
     "league": 2,
     "uefa": 6,
@@ -1146,6 +1289,7 @@
   {
     "pos": 144,
     "team": "Aarhus Gymnastikforening",
+    "logo": "aarhus-gymnastikforening",
     "nation": "DEN",
     "league": 1,
     "uefa": 7,
@@ -1154,6 +1298,7 @@
   {
     "pos": 145,
     "team": "FK CSKA 1948 Sofia",
+    "logo": "fk-cska-1948-sofia",
     "nation": "BUL",
     "league": 7,
     "uefa": 0,
@@ -1162,6 +1307,7 @@
   {
     "pos": 146,
     "team": "FK Mladá Boleslav",
+    "logo": "fk-mlada-boleslav",
     "nation": "CZE",
     "league": 7,
     "uefa": 0,
@@ -1170,6 +1316,7 @@
   {
     "pos": 147,
     "team": "Deportivo La Coruña",
+    "logo": "deportivo-la-coruna",
     "nation": "ESP",
     "league": 7,
     "uefa": 0,
@@ -1178,6 +1325,7 @@
   {
     "pos": 148,
     "team": "Elche CF",
+    "logo": "elche-cf",
     "nation": "ESP",
     "league": 7,
     "uefa": 0,
@@ -1186,6 +1334,7 @@
   {
     "pos": 149,
     "team": "Málaga CF",
+    "logo": "malaga-cf",
     "nation": "ESP",
     "league": 7,
     "uefa": 0,
@@ -1194,6 +1343,7 @@
   {
     "pos": 150,
     "team": "Valencia CF",
+    "logo": "valencia-cf",
     "nation": "ESP",
     "league": 7,
     "uefa": 0,
@@ -1202,6 +1352,7 @@
   {
     "pos": 151,
     "team": "Rayo Vallecano",
+    "logo": "rayo-vallecano",
     "nation": "ESP",
     "league": 7,
     "uefa": 0,
@@ -1210,6 +1361,7 @@
   {
     "pos": 152,
     "team": "Getafe Club de Fútbol",
+    "logo": "getafe-club-de-futbol",
     "nation": "ESP",
     "league": 7,
     "uefa": 0,
@@ -1218,6 +1370,7 @@
   {
     "pos": 153,
     "team": "Levante UD",
+    "logo": "levante-ud",
     "nation": "ESP",
     "league": 7,
     "uefa": 0,
@@ -1226,6 +1379,7 @@
   {
     "pos": 154,
     "team": "Stade Brestois 29",
+    "logo": "stade-brestois-29",
     "nation": "FRA",
     "league": 7,
     "uefa": 0,
@@ -1234,6 +1388,7 @@
   {
     "pos": 155,
     "team": "Le Havre AC",
+    "logo": "le-havre-ac",
     "nation": "FRA",
     "league": 7,
     "uefa": 0,
@@ -1242,6 +1397,7 @@
   {
     "pos": 156,
     "team": "Le Mans FC",
+    "logo": "le-mans-fc",
     "nation": "FRA",
     "league": 7,
     "uefa": 0,
@@ -1250,6 +1406,7 @@
   {
     "pos": 157,
     "team": "FC Lorient",
+    "logo": "fc-lorient",
     "nation": "FRA",
     "league": 7,
     "uefa": 0,
@@ -1258,6 +1415,7 @@
   {
     "pos": 158,
     "team": "AS Monaco FC",
+    "logo": "as-monaco-fc",
     "nation": "FRA",
     "league": 7,
     "uefa": 0,
@@ -1266,6 +1424,7 @@
   {
     "pos": 159,
     "team": "OGC Nice Côte d'Azur",
+    "logo": "ogc-nice-cote-dazur",
     "nation": "FRA",
     "league": 7,
     "uefa": 0,
@@ -1274,6 +1433,7 @@
   {
     "pos": 160,
     "team": "Paris FC",
+    "logo": "paris-fc",
     "nation": "FRA",
     "league": 7,
     "uefa": 0,
@@ -1282,6 +1442,7 @@
   {
     "pos": 161,
     "team": "RC Strasbourg Alsace",
+    "logo": "rc-strasbourg-alsace",
     "nation": "FRA",
     "league": 7,
     "uefa": 0,
@@ -1290,6 +1451,7 @@
   {
     "pos": 162,
     "team": "Toulouse FC",
+    "logo": "toulouse-fc",
     "nation": "FRA",
     "league": 7,
     "uefa": 0,
@@ -1298,6 +1460,7 @@
   {
     "pos": 163,
     "team": "Troyes",
+    "logo": "troyes",
     "nation": "FRA",
     "league": 7,
     "uefa": 0,
@@ -1306,6 +1469,7 @@
   {
     "pos": 164,
     "team": "1. FC Köln",
+    "logo": "1-fc-koln",
     "nation": "GER",
     "league": 7,
     "uefa": 0,
@@ -1314,6 +1478,7 @@
   {
     "pos": 165,
     "team": "1. FSV Mainz 05",
+    "logo": "1-fsv-mainz-05",
     "nation": "GER",
     "league": 7,
     "uefa": 0,
@@ -1322,6 +1487,7 @@
   {
     "pos": 166,
     "team": "SC Paderborn 07",
+    "logo": "sc-paderborn-07",
     "nation": "GER",
     "league": 7,
     "uefa": 0,
@@ -1330,6 +1496,7 @@
   {
     "pos": 167,
     "team": "FC Schalke 04",
+    "logo": "fc-schalke-04",
     "nation": "GER",
     "league": 7,
     "uefa": 0,
@@ -1338,6 +1505,7 @@
   {
     "pos": 168,
     "team": "1. FC Union Berlin",
+    "logo": "1-fc-union-berlin",
     "nation": "GER",
     "league": 7,
     "uefa": 0,
@@ -1346,6 +1514,7 @@
   {
     "pos": 169,
     "team": "SV Werder Bremen",
+    "logo": "sv-werder-bremen",
     "nation": "GER",
     "league": 7,
     "uefa": 0,
@@ -1354,6 +1523,7 @@
   {
     "pos": 170,
     "team": "Atalanta Bergamasca Calcio",
+    "logo": "atalanta-bergamasca-calcio",
     "nation": "ITA",
     "league": 7,
     "uefa": 0,
@@ -1362,6 +1532,7 @@
   {
     "pos": 171,
     "team": "Bologna FC 1909",
+    "logo": "bologna-fc-1909",
     "nation": "ITA",
     "league": 7,
     "uefa": 0,
@@ -1370,6 +1541,7 @@
   {
     "pos": 172,
     "team": "Cagliari Calcio",
+    "logo": "cagliari-calcio",
     "nation": "ITA",
     "league": 7,
     "uefa": 0,
@@ -1378,6 +1550,7 @@
   {
     "pos": 173,
     "team": "ACF Fiorentina",
+    "logo": "acf-fiorentina",
     "nation": "ITA",
     "league": 7,
     "uefa": 0,
@@ -1386,6 +1559,7 @@
   {
     "pos": 174,
     "team": "Frosinone Calcio",
+    "logo": "frosinone-calcio",
     "nation": "ITA",
     "league": 7,
     "uefa": 0,
@@ -1394,6 +1568,7 @@
   {
     "pos": 175,
     "team": "Genoa CFC",
+    "logo": "genoa-cfc",
     "nation": "ITA",
     "league": 7,
     "uefa": 0,
@@ -1402,6 +1577,7 @@
   {
     "pos": 176,
     "team": "SS Lazio",
+    "logo": "ss-lazio",
     "nation": "ITA",
     "league": 7,
     "uefa": 0,
@@ -1410,6 +1586,7 @@
   {
     "pos": 177,
     "team": "US Lecce",
+    "logo": "us-lecce",
     "nation": "ITA",
     "league": 7,
     "uefa": 0,
@@ -1418,6 +1595,7 @@
   {
     "pos": 178,
     "team": "SS Monza 1912",
+    "logo": "ss-monza-1912",
     "nation": "ITA",
     "league": 7,
     "uefa": 0,
@@ -1426,6 +1604,7 @@
   {
     "pos": 179,
     "team": "Parma Calcio 1913",
+    "logo": "parma-calcio-1913",
     "nation": "ITA",
     "league": 7,
     "uefa": 0,
@@ -1434,6 +1613,7 @@
   {
     "pos": 180,
     "team": "Go Ahead Eagles",
+    "logo": "go-ahead-eagles",
     "nation": "NED",
     "league": 7,
     "uefa": 0,
@@ -1442,6 +1622,7 @@
   {
     "pos": 181,
     "team": "AFC Ajax",
+    "logo": "afc-ajax",
     "nation": "NED",
     "league": 7,
     "uefa": 0,
@@ -1450,6 +1631,7 @@
   {
     "pos": 182,
     "team": "Fortuna Sittard",
+    "logo": "fortuna-sittard",
     "nation": "NED",
     "league": 7,
     "uefa": 0,
@@ -1458,6 +1640,7 @@
   {
     "pos": 183,
     "team": "SC Heerenveen",
+    "logo": "sc-heerenveen",
     "nation": "NED",
     "league": 7,
     "uefa": 0,
@@ -1466,6 +1649,7 @@
   {
     "pos": 184,
     "team": "KP Legia Warszawa",
+    "logo": "kp-legia-warszawa",
     "nation": "POL",
     "league": 7,
     "uefa": 0,
@@ -1474,6 +1658,7 @@
   {
     "pos": 185,
     "team": "CD Nacional Funchal",
+    "logo": "cd-nacional-funchal",
     "nation": "POR",
     "league": 7,
     "uefa": 0,
@@ -1482,6 +1667,7 @@
   {
     "pos": 186,
     "team": "CD Santa Clara",
+    "logo": "cd-santa-clara",
     "nation": "POR",
     "league": 7,
     "uefa": 0,
@@ -1490,6 +1676,7 @@
   {
     "pos": 187,
     "team": "FC Karpaty Lviv",
+    "logo": "fc-karpaty-lviv",
     "nation": "UKR",
     "league": 7,
     "uefa": 0,
@@ -1498,6 +1685,7 @@
   {
     "pos": 188,
     "team": "FC Hradec Králové",
+    "logo": "fc-hradec-kralove",
     "nation": "CZE",
     "league": 6,
     "uefa": 1,
@@ -1506,6 +1694,7 @@
   {
     "pos": 189,
     "team": "Hammarby IF",
+    "logo": "hammarby-if",
     "nation": "SWE",
     "league": 6,
     "uefa": 1,
@@ -1514,6 +1703,7 @@
   {
     "pos": 190,
     "team": "FK Sheriff Tiraspol",
+    "logo": "fk-sheriff-tiraspol",
     "nation": "MDA",
     "league": 5,
     "uefa": 2,
@@ -1522,6 +1712,7 @@
   {
     "pos": 191,
     "team": "Heart of Midlothian FC",
+    "logo": "heart-of-midlothian-fc",
     "nation": "SCO",
     "league": 4,
     "uefa": 3,
@@ -1530,6 +1721,7 @@
   {
     "pos": 192,
     "team": "Hibernian FC",
+    "logo": "hibernian-fc",
     "nation": "SCO",
     "league": 4,
     "uefa": 3,
@@ -1538,6 +1730,7 @@
   {
     "pos": 193,
     "team": "Sint-Truidense VV",
+    "logo": "sint-truidense-vv",
     "nation": "BEL",
     "league": 3,
     "uefa": 4,
@@ -1546,6 +1739,7 @@
   {
     "pos": 194,
     "team": "Lincoln Red Imps FC",
+    "logo": "lincoln-red-imps-fc",
     "nation": "GIB",
     "league": 1,
     "uefa": 6,
@@ -1554,6 +1748,7 @@
   {
     "pos": 195,
     "team": "Tic Tapa UE Santa Coloma",
+    "logo": "tic-tapa-ue-santa-coloma",
     "nation": "AND",
     "league": 6,
     "uefa": 0,
@@ -1562,6 +1757,7 @@
   {
     "pos": 196,
     "team": "FC Slovan Liberec",
+    "logo": "fc-slovan-liberec",
     "nation": "CZE",
     "league": 6,
     "uefa": 0,
@@ -1570,6 +1766,7 @@
   {
     "pos": 197,
     "team": "SK Sigma Olomouc",
+    "logo": "sk-sigma-olomouc",
     "nation": "CZE",
     "league": 6,
     "uefa": 0,
@@ -1578,6 +1775,7 @@
   {
     "pos": 198,
     "team": "FK Teplice",
+    "logo": "fk-teplice",
     "nation": "CZE",
     "league": 6,
     "uefa": 0,
@@ -1586,6 +1784,7 @@
   {
     "pos": 199,
     "team": "US Sassuolo Calcio",
+    "logo": "us-sassuolo-calcio",
     "nation": "ITA",
     "league": 6,
     "uefa": 0,
@@ -1594,6 +1793,7 @@
   {
     "pos": 200,
     "team": "Torino FC",
+    "logo": "torino-fc",
     "nation": "ITA",
     "league": 6,
     "uefa": 0,
@@ -1602,6 +1802,7 @@
   {
     "pos": 201,
     "team": "Udinese Calcio",
+    "logo": "udinese-calcio",
     "nation": "ITA",
     "league": 6,
     "uefa": 0,
@@ -1610,6 +1811,7 @@
   {
     "pos": 202,
     "team": "Venezia FC",
+    "logo": "venezia-fc",
     "nation": "ITA",
     "league": 6,
     "uefa": 0,
@@ -1618,6 +1820,7 @@
   {
     "pos": 203,
     "team": "SBV Excelsior",
+    "logo": "sbv-excelsior",
     "nation": "NED",
     "league": 6,
     "uefa": 0,
@@ -1626,6 +1829,7 @@
   {
     "pos": 204,
     "team": "Amed",
+    "logo": "amed",
     "nation": "TUR",
     "league": 6,
     "uefa": 0,
@@ -1634,6 +1838,7 @@
   {
     "pos": 205,
     "team": "İstanbul Başakşehir FK",
+    "logo": "stanbul-baakehir-fk",
     "nation": "TUR",
     "league": 6,
     "uefa": 0,
@@ -1642,6 +1847,7 @@
   {
     "pos": 206,
     "team": "Çaykur Rizespor",
+    "logo": "caykur-rizespor",
     "nation": "TUR",
     "league": 6,
     "uefa": 0,
@@ -1650,6 +1856,7 @@
   {
     "pos": 207,
     "team": "Gençlerbirliği",
+    "logo": "genclerbirlii",
     "nation": "TUR",
     "league": 6,
     "uefa": 0,
@@ -1658,6 +1865,7 @@
   {
     "pos": 208,
     "team": "FK Austria Wien",
+    "logo": "fk-austria-wien",
     "nation": "AUT",
     "league": 4,
     "uefa": 2,
@@ -1666,6 +1874,7 @@
   {
     "pos": 209,
     "team": "Panathinaikos FC",
+    "logo": "panathinaikos-fc",
     "nation": "GRE",
     "league": 4,
     "uefa": 2,
@@ -1674,6 +1883,7 @@
   {
     "pos": 210,
     "team": "PAOK Thessaloniki FC",
+    "logo": "paok-thessaloniki-fc",
     "nation": "GRE",
     "league": 4,
     "uefa": 2,
@@ -1682,6 +1892,7 @@
   {
     "pos": 211,
     "team": "HNK Hajduk Split",
+    "logo": "hnk-hajduk-split",
     "nation": "CRO",
     "league": 3,
     "uefa": 3,
@@ -1690,6 +1901,7 @@
   {
     "pos": 212,
     "team": "Hapoel Tel Aviv FC",
+    "logo": "hapoel-tel-aviv-fc",
     "nation": "ISR",
     "league": 3,
     "uefa": 3,
@@ -1698,6 +1910,7 @@
   {
     "pos": 213,
     "team": "SL Benfica",
+    "logo": "sl-benfica",
     "nation": "POR",
     "league": 3,
     "uefa": 3,
@@ -1706,6 +1919,7 @@
   {
     "pos": 214,
     "team": "Larne FC",
+    "logo": "larne-fc",
     "nation": "NIR",
     "league": 0,
     "uefa": 6,
@@ -1714,6 +1928,7 @@
   {
     "pos": 215,
     "team": "Wolfsberger Athletik Club",
+    "logo": "wolfsberger-athletik-club",
     "nation": "AUT",
     "league": 5,
     "uefa": 0,
@@ -1722,6 +1937,7 @@
   {
     "pos": 216,
     "team": "SC Austria Lustenau",
+    "logo": "sc-austria-lustenau",
     "nation": "AUT",
     "league": 5,
     "uefa": 0,
@@ -1730,6 +1946,7 @@
   {
     "pos": 217,
     "team": "Zira IK",
+    "logo": "zira-ik",
     "nation": "AZE",
     "league": 5,
     "uefa": 0,
@@ -1738,6 +1955,7 @@
   {
     "pos": 218,
     "team": "SV Zulte-Waregem",
+    "logo": "sv-zulte-waregem",
     "nation": "BEL",
     "league": 5,
     "uefa": 0,
@@ -1746,6 +1964,7 @@
   {
     "pos": 219,
     "team": "NK Lokomotiva Zagreb",
+    "logo": "nk-lokomotiva-zagreb",
     "nation": "CRO",
     "league": 5,
     "uefa": 0,
@@ -1754,6 +1973,7 @@
   {
     "pos": 220,
     "team": "FC Banik Ostrava",
+    "logo": "fc-banik-ostrava",
     "nation": "CZE",
     "league": 5,
     "uefa": 0,
@@ -1762,6 +1982,7 @@
   {
     "pos": 221,
     "team": "Brøndby IF",
+    "logo": "brondby-if",
     "nation": "DEN",
     "league": 5,
     "uefa": 0,
@@ -1770,6 +1991,7 @@
   {
     "pos": 222,
     "team": "Viborg FF",
+    "logo": "viborg-ff",
     "nation": "DEN",
     "league": 5,
     "uefa": 0,
@@ -1778,6 +2000,7 @@
   {
     "pos": 223,
     "team": "Aris Thessaloniki FC",
+    "logo": "aris-thessaloniki-fc",
     "nation": "GRE",
     "league": 5,
     "uefa": 0,
@@ -1786,6 +2009,7 @@
   {
     "pos": 224,
     "team": "Asteras Tripolis FC",
+    "logo": "asteras-tripolis-fc",
     "nation": "GRE",
     "league": 5,
     "uefa": 0,
@@ -1794,6 +2018,7 @@
   {
     "pos": 225,
     "team": "PAE APS Atromitos Athens",
+    "logo": "pae-aps-atromitos-athens",
     "nation": "GRE",
     "league": 5,
     "uefa": 0,
@@ -1802,6 +2027,7 @@
   {
     "pos": 226,
     "team": "Puskás Ferenc Akadémia FC",
+    "logo": "puskas-ferenc-akademia-fc",
     "nation": "HUN",
     "league": 5,
     "uefa": 0,
@@ -1810,6 +2036,7 @@
   {
     "pos": 227,
     "team": "St Patrick's Athletic FC",
+    "logo": "st-patricks-athletic-fc",
     "nation": "IRL",
     "league": 5,
     "uefa": 0,
@@ -1818,6 +2045,7 @@
   {
     "pos": 228,
     "team": "Sparta Rotterdam",
+    "logo": "sparta-rotterdam",
     "nation": "NED",
     "league": 5,
     "uefa": 0,
@@ -1826,6 +2054,7 @@
   {
     "pos": 229,
     "team": "FC Twente",
+    "logo": "fc-twente",
     "nation": "NED",
     "league": 5,
     "uefa": 0,
@@ -1834,6 +2063,7 @@
   {
     "pos": 230,
     "team": "SC Telstar",
+    "logo": "sc-telstar",
     "nation": "NED",
     "league": 5,
     "uefa": 0,
@@ -1842,6 +2072,7 @@
   {
     "pos": 231,
     "team": "Gil Vicente FC",
+    "logo": "gil-vicente-fc",
     "nation": "POR",
     "league": 5,
     "uefa": 0,
@@ -1850,6 +2081,7 @@
   {
     "pos": 232,
     "team": "FK Čukarički Stankom",
+    "logo": "fk-ukariki-stankom",
     "nation": "SRB",
     "league": 5,
     "uefa": 0,
@@ -1858,6 +2090,7 @@
   {
     "pos": 233,
     "team": "FK IMT Novi Beograd",
+    "logo": "fk-imt-novi-beograd",
     "nation": "SRB",
     "league": 5,
     "uefa": 0,
@@ -1866,6 +2099,7 @@
   {
     "pos": 234,
     "team": "BSC Young Boys",
+    "logo": "bsc-young-boys",
     "nation": "SUI",
     "league": 5,
     "uefa": 0,
@@ -1874,6 +2108,7 @@
   {
     "pos": 235,
     "team": "FC Spartak Trnava",
+    "logo": "fc-spartak-trnava",
     "nation": "SVK",
     "league": 5,
     "uefa": 0,
@@ -1882,6 +2117,7 @@
   {
     "pos": 236,
     "team": "ŽP Šport Podbrezová",
+    "logo": "zp-sport-podbrezova",
     "nation": "SVK",
     "league": 5,
     "uefa": 0,
@@ -1890,6 +2126,7 @@
   {
     "pos": 237,
     "team": "Helsingin Jalkapalloklubi",
+    "logo": "helsingin-jalkapalloklubi",
     "nation": "FIN",
     "league": 4,
     "uefa": 1,
@@ -1898,6 +2135,7 @@
   {
     "pos": 238,
     "team": "FC Dinamo Minsk",
+    "logo": "fc-dinamo-minsk",
     "nation": "BLR",
     "league": 3,
     "uefa": 2,
@@ -1906,6 +2144,7 @@
   {
     "pos": 239,
     "team": "KF Shkendija",
+    "logo": "kf-shkendija",
     "nation": "MKD",
     "league": 3,
     "uefa": 2,
@@ -1914,6 +2153,7 @@
   {
     "pos": 240,
     "team": "SK Brann",
+    "logo": "sk-brann",
     "nation": "NOR",
     "league": 3,
     "uefa": 2,
@@ -1922,6 +2162,7 @@
   {
     "pos": 241,
     "team": "HNK Rijeka",
+    "logo": "hnk-rijeka",
     "nation": "CRO",
     "league": 2,
     "uefa": 3,
@@ -1930,6 +2171,7 @@
   {
     "pos": 242,
     "team": "Maccabi Tel Aviv FC",
+    "logo": "maccabi-tel-aviv-fc",
     "nation": "ISR",
     "league": 2,
     "uefa": 3,
@@ -1938,6 +2180,7 @@
   {
     "pos": 243,
     "team": "Rangers FC",
+    "logo": "rangers-fc",
     "nation": "SCO",
     "league": 2,
     "uefa": 3,
@@ -1946,6 +2189,7 @@
   {
     "pos": 244,
     "team": "Qarabağ Ağdam FK",
+    "logo": "qaraba-adam-fk",
     "nation": "AZE",
     "league": 1,
     "uefa": 4,
@@ -1954,6 +2198,7 @@
   {
     "pos": 245,
     "team": "Paphos FC",
+    "logo": "paphos-fc",
     "nation": "CYP",
     "league": 1,
     "uefa": 4,
@@ -1962,6 +2207,7 @@
   {
     "pos": 246,
     "team": "FK Partizan Beograd",
+    "logo": "fk-partizan-beograd",
     "nation": "SRB",
     "league": 0,
     "uefa": 5,
@@ -1970,6 +2216,7 @@
   {
     "pos": 247,
     "team": "SC Rheindorf Altach",
+    "logo": "sc-rheindorf-altach",
     "nation": "AUT",
     "league": 4,
     "uefa": 0,
@@ -1978,6 +2225,7 @@
   {
     "pos": 248,
     "team": "Liebherr Grazer AK",
+    "logo": "liebherr-grazer-ak",
     "nation": "AUT",
     "league": 4,
     "uefa": 0,
@@ -1986,6 +2234,7 @@
   {
     "pos": 249,
     "team": "Neftçi PFC Bakı",
+    "logo": "neftci-pfc-bak",
     "nation": "AZE",
     "league": 4,
     "uefa": 0,
@@ -1994,6 +2243,7 @@
   {
     "pos": 250,
     "team": "Turan-T IK",
+    "logo": "turan-t-ik",
     "nation": "AZE",
     "league": 4,
     "uefa": 0,
@@ -2002,6 +2252,7 @@
   {
     "pos": 251,
     "team": "Waasland-Beveren",
+    "logo": "waasland-beveren",
     "nation": "BEL",
     "league": 4,
     "uefa": 0,
@@ -2010,6 +2261,7 @@
   {
     "pos": 252,
     "team": "KRC Genk",
+    "logo": "krc-genk",
     "nation": "BEL",
     "league": 4,
     "uefa": 0,
@@ -2018,6 +2270,7 @@
   {
     "pos": 253,
     "team": "HŠK Zrinjski Mostar",
+    "logo": "hsk-zrinjski-mostar",
     "nation": "BIH",
     "league": 4,
     "uefa": 0,
@@ -2026,6 +2279,7 @@
   {
     "pos": 254,
     "team": "FK Isloch Minsk",
+    "logo": "fk-isloch-minsk",
     "nation": "BLR",
     "league": 4,
     "uefa": 0,
@@ -2034,6 +2288,7 @@
   {
     "pos": 255,
     "team": "FC Dinamo Tbilisi",
+    "logo": "fc-dinamo-tbilisi",
     "nation": "GEO",
     "league": 4,
     "uefa": 0,
@@ -2042,6 +2297,7 @@
   {
     "pos": 256,
     "team": "Iraklis Thessaloniki FC",
+    "logo": "iraklis-thessaloniki-fc",
     "nation": "GRE",
     "league": 4,
     "uefa": 0,
@@ -2050,6 +2306,7 @@
   {
     "pos": 257,
     "team": "PS PAE Kalamata",
+    "logo": "ps-pae-kalamata",
     "nation": "GRE",
     "league": 4,
     "uefa": 0,
@@ -2058,6 +2315,7 @@
   {
     "pos": 258,
     "team": "Kifisias FC",
+    "logo": "kifisias-fc",
     "nation": "GRE",
     "league": 4,
     "uefa": 0,
@@ -2066,6 +2324,7 @@
   {
     "pos": 259,
     "team": "Levadiakos FC",
+    "logo": "levadiakos-fc",
     "nation": "GRE",
     "league": 4,
     "uefa": 0,
@@ -2074,6 +2333,7 @@
   {
     "pos": 260,
     "team": "Panaitolikos GFS Agrinio",
+    "logo": "panaitolikos-gfs-agrinio",
     "nation": "GRE",
     "league": 4,
     "uefa": 0,
@@ -2082,6 +2342,7 @@
   {
     "pos": 261,
     "team": "Volos New Football Club",
+    "logo": "volos-new-football-club",
     "nation": "GRE",
     "league": 4,
     "uefa": 0,
@@ -2090,6 +2351,7 @@
   {
     "pos": 262,
     "team": "Vasas SC",
+    "logo": "vasas-sc",
     "nation": "HUN",
     "league": 4,
     "uefa": 0,
@@ -2098,6 +2360,7 @@
   {
     "pos": 263,
     "team": "KR Reykjavík",
+    "logo": "kr-reykjavik",
     "nation": "ISL",
     "league": 4,
     "uefa": 0,
@@ -2106,6 +2369,7 @@
   {
     "pos": 264,
     "team": "FK Džiugas Telšiai",
+    "logo": "fk-dziugas-telsiai",
     "nation": "LTU",
     "league": 4,
     "uefa": 0,
@@ -2114,6 +2378,7 @@
   {
     "pos": 265,
     "team": "FK TransINVEST Vilnius",
+    "logo": "fk-transinvest-vilnius",
     "nation": "LTU",
     "league": 4,
     "uefa": 0,
@@ -2122,6 +2387,7 @@
   {
     "pos": 266,
     "team": "Molde FK",
+    "logo": "molde-fk",
     "nation": "NOR",
     "league": 4,
     "uefa": 0,
@@ -2130,6 +2396,7 @@
   {
     "pos": 267,
     "team": "Wisła Kraków",
+    "logo": "wisa-krakow",
     "nation": "POL",
     "league": 4,
     "uefa": 0,
@@ -2138,6 +2405,7 @@
   {
     "pos": 268,
     "team": "Estrela Amadora",
+    "logo": "estrela-amadora",
     "nation": "POR",
     "league": 4,
     "uefa": 0,
@@ -2146,6 +2414,7 @@
   {
     "pos": 269,
     "team": "FC Dinamo 1948 Bucureşti",
+    "logo": "fc-dinamo-1948-bucureti",
     "nation": "ROU",
     "league": 4,
     "uefa": 0,
@@ -2154,6 +2423,7 @@
   {
     "pos": 270,
     "team": "FC Argeș Pitești",
+    "logo": "fc-arge-piteti",
     "nation": "ROU",
     "league": 4,
     "uefa": 0,
@@ -2162,6 +2432,7 @@
   {
     "pos": 271,
     "team": "Dundee FC",
+    "logo": "dundee-fc",
     "nation": "SCO",
     "league": 4,
     "uefa": 0,
@@ -2170,6 +2441,7 @@
   {
     "pos": 272,
     "team": "Saint Johnstone FC",
+    "logo": "saint-johnstone-fc",
     "nation": "SCO",
     "league": 4,
     "uefa": 0,
@@ -2178,6 +2450,7 @@
   {
     "pos": 273,
     "team": "Aberdeen FC",
+    "logo": "aberdeen-fc",
     "nation": "SCO",
     "league": 4,
     "uefa": 0,
@@ -2186,6 +2459,7 @@
   {
     "pos": 274,
     "team": "FK Vojvodina Novi Sad",
+    "logo": "fk-vojvodina-novi-sad",
     "nation": "SRB",
     "league": 4,
     "uefa": 0,
@@ -2194,6 +2468,7 @@
   {
     "pos": 275,
     "team": "FC Basel 1893",
+    "logo": "fc-basel-1893",
     "nation": "SUI",
     "league": 4,
     "uefa": 0,
@@ -2202,6 +2477,7 @@
   {
     "pos": 276,
     "team": "FC Lausanne Sport",
+    "logo": "fc-lausanne-sport",
     "nation": "SUI",
     "league": 4,
     "uefa": 0,
@@ -2210,6 +2486,7 @@
   {
     "pos": 277,
     "team": "NK Maribor",
+    "logo": "nk-maribor",
     "nation": "SVN",
     "league": 4,
     "uefa": 0,
@@ -2218,6 +2495,7 @@
   {
     "pos": 278,
     "team": "AŠK Bravo Publikum",
+    "logo": "ask-bravo-publikum",
     "nation": "SVN",
     "league": 4,
     "uefa": 0,
@@ -2226,6 +2504,7 @@
   {
     "pos": 279,
     "team": "Alanyaspor",
+    "logo": "alanyaspor",
     "nation": "TUR",
     "league": 4,
     "uefa": 0,
@@ -2234,6 +2513,7 @@
   {
     "pos": 280,
     "team": "Gaziantep FK",
+    "logo": "gaziantep-fk",
     "nation": "TUR",
     "league": 4,
     "uefa": 0,
@@ -2242,6 +2522,7 @@
   {
     "pos": 281,
     "team": "Kasimpasa",
+    "logo": "kasimpasa",
     "nation": "TUR",
     "league": 4,
     "uefa": 0,
@@ -2250,6 +2531,7 @@
   {
     "pos": 282,
     "team": "Polessya Zhitomir",
+    "logo": "polessya-zhitomir",
     "nation": "UKR",
     "league": 4,
     "uefa": 0,
@@ -2258,6 +2540,7 @@
   {
     "pos": 283,
     "team": "FC Dynamo Kyiv",
+    "logo": "fc-dynamo-kyiv",
     "nation": "UKR",
     "league": 4,
     "uefa": 0,
@@ -2266,6 +2549,7 @@
   {
     "pos": 284,
     "team": "FC Artsakh",
+    "logo": "fc-artsakh",
     "nation": "ARM",
     "league": 3,
     "uefa": 1,
@@ -2274,6 +2558,7 @@
   {
     "pos": 285,
     "team": "DAC 1904 Dunajská Streda",
+    "logo": "dac-1904-dunajska-streda",
     "nation": "SVK",
     "league": 3,
     "uefa": 1,
@@ -2282,6 +2567,7 @@
   {
     "pos": 286,
     "team": "FC Maxline Vitebsk",
+    "logo": "fc-maxline-vitebsk",
     "nation": "BLR",
     "league": 2,
     "uefa": 2,
@@ -2290,6 +2576,7 @@
   {
     "pos": 287,
     "team": "AF Elbasani",
+    "logo": "af-elbasani",
     "nation": "ALB",
     "league": 3,
     "uefa": 0,
@@ -2298,6 +2585,7 @@
   {
     "pos": 288,
     "team": "Alashkert FC",
+    "logo": "alashkert-fc",
     "nation": "ARM",
     "league": 3,
     "uefa": 0,
@@ -2306,6 +2594,7 @@
   {
     "pos": 289,
     "team": "Sardarapat FC",
+    "logo": "sardarapat-fc",
     "nation": "ARM",
     "league": 3,
     "uefa": 0,
@@ -2314,6 +2603,7 @@
   {
     "pos": 290,
     "team": "Cercle Brugge KSV",
+    "logo": "cercle-brugge-ksv",
     "nation": "BEL",
     "league": 3,
     "uefa": 0,
@@ -2322,6 +2612,7 @@
   {
     "pos": 291,
     "team": "Royal Standard de Liège",
+    "logo": "royal-standard-de-liege",
     "nation": "BEL",
     "league": 3,
     "uefa": 0,
@@ -2330,6 +2621,7 @@
   {
     "pos": 292,
     "team": "NK Široki Brijeg",
+    "logo": "nk-siroki-brijeg",
     "nation": "BIH",
     "league": 3,
     "uefa": 0,
@@ -2338,6 +2630,7 @@
   {
     "pos": 293,
     "team": "NK Istra 1961",
+    "logo": "nk-istra-1961",
     "nation": "CRO",
     "league": 3,
     "uefa": 0,
@@ -2346,6 +2639,7 @@
   {
     "pos": 294,
     "team": "FC Zbrojovka Brno",
+    "logo": "fc-zbrojovka-brno",
     "nation": "CZE",
     "league": 3,
     "uefa": 0,
@@ -2354,6 +2648,7 @@
   {
     "pos": 295,
     "team": "Bohemians 1905",
+    "logo": "bohemians-1905",
     "nation": "CZE",
     "league": 3,
     "uefa": 0,
@@ -2362,6 +2657,7 @@
   {
     "pos": 296,
     "team": "Újpest FC",
+    "logo": "ujpest-fc",
     "nation": "HUN",
     "league": 3,
     "uefa": 0,
@@ -2370,6 +2666,7 @@
   {
     "pos": 297,
     "team": "Nyíregyháza Spartacus FC",
+    "logo": "nyiregyhaza-spartacus-fc",
     "nation": "HUN",
     "league": 3,
     "uefa": 0,
@@ -2378,6 +2675,7 @@
   {
     "pos": 298,
     "team": "Beitar Jerusalem FC",
+    "logo": "beitar-jerusalem-fc",
     "nation": "ISR",
     "league": 3,
     "uefa": 0,
@@ -2386,6 +2684,7 @@
   {
     "pos": 299,
     "team": "Ihoud Bnei Sakhnin FC",
+    "logo": "ihoud-bnei-sakhnin-fc",
     "nation": "ISR",
     "league": 3,
     "uefa": 0,
@@ -2394,6 +2693,7 @@
   {
     "pos": 300,
     "team": "Hapoel Haifa FC",
+    "logo": "hapoel-haifa-fc",
     "nation": "ISR",
     "league": 3,
     "uefa": 0,
@@ -2402,6 +2702,7 @@
   {
     "pos": 301,
     "team": "Hapoel Katamon Jerusalem FC",
+    "logo": "hapoel-katamon-jerusalem-fc",
     "nation": "ISR",
     "league": 3,
     "uefa": 0,
@@ -2410,6 +2711,7 @@
   {
     "pos": 302,
     "team": "Hapoel Petah Tikva FC",
+    "logo": "hapoel-petah-tikva-fc",
     "nation": "ISR",
     "league": 3,
     "uefa": 0,
@@ -2418,6 +2720,7 @@
   {
     "pos": 303,
     "team": "Hapoel Ramat Gan Giv'atayim FC",
+    "logo": "hapoel-ramat-gan-givatayim-fc",
     "nation": "ISR",
     "league": 3,
     "uefa": 0,
@@ -2426,6 +2729,7 @@
   {
     "pos": 304,
     "team": "Ujvara e Malishevës",
+    "logo": "ujvara-e-malisheves",
     "nation": "KOS",
     "league": 3,
     "uefa": 0,
@@ -2434,6 +2738,7 @@
   {
     "pos": 305,
     "team": "KF Gjilani",
+    "logo": "kf-gjilani",
     "nation": "KOS",
     "league": 3,
     "uefa": 0,
@@ -2442,6 +2747,7 @@
   {
     "pos": 306,
     "team": "FC Prishtina",
+    "logo": "fc-prishtina",
     "nation": "KOS",
     "league": 3,
     "uefa": 0,
@@ -2450,6 +2756,7 @@
   {
     "pos": 307,
     "team": "FK Sūduva Marijampolė",
+    "logo": "fk-sduva-marijampol",
     "nation": "LTU",
     "league": 3,
     "uefa": 0,
@@ -2458,6 +2765,7 @@
   {
     "pos": 308,
     "team": "FK Banga Gargždai",
+    "logo": "fk-banga-gargzdai",
     "nation": "LTU",
     "league": 3,
     "uefa": 0,
@@ -2466,6 +2774,7 @@
   {
     "pos": 309,
     "team": "Cliftonville FC",
+    "logo": "cliftonville-fc",
     "nation": "NIR",
     "league": 3,
     "uefa": 0,
@@ -2474,6 +2783,7 @@
   {
     "pos": 310,
     "team": "Carrick Rangers FC",
+    "logo": "carrick-rangers-fc",
     "nation": "NIR",
     "league": 3,
     "uefa": 0,
@@ -2482,6 +2792,7 @@
   {
     "pos": 311,
     "team": "MKS Pogoń Szczecin",
+    "logo": "mks-pogo-szczecin",
     "nation": "POL",
     "league": 3,
     "uefa": 0,
@@ -2490,6 +2801,7 @@
   {
     "pos": 312,
     "team": "Zagłębie Lubin",
+    "logo": "zagbie-lubin",
     "nation": "POL",
     "league": 3,
     "uefa": 0,
@@ -2498,6 +2810,7 @@
   {
     "pos": 313,
     "team": "RTS Widzew Łódź",
+    "logo": "rts-widzew-od",
     "nation": "POL",
     "league": 3,
     "uefa": 0,
@@ -2506,6 +2819,7 @@
   {
     "pos": 314,
     "team": "MKS Cracovia Kraków",
+    "logo": "mks-cracovia-krakow",
     "nation": "POL",
     "league": 3,
     "uefa": 0,
@@ -2514,6 +2828,7 @@
   {
     "pos": 315,
     "team": "Sporting Braga",
+    "logo": "sporting-braga",
     "nation": "POR",
     "league": 3,
     "uefa": 0,
@@ -2522,6 +2837,7 @@
   {
     "pos": 316,
     "team": "Academico de Viseu FC",
+    "logo": "academico-de-viseu-fc",
     "nation": "POR",
     "league": 3,
     "uefa": 0,
@@ -2530,6 +2846,7 @@
   {
     "pos": 317,
     "team": "FC Famalicão",
+    "logo": "fc-famalicao",
     "nation": "POR",
     "league": 3,
     "uefa": 0,
@@ -2538,6 +2855,7 @@
   {
     "pos": 318,
     "team": "GD Estoril Praia",
+    "logo": "gd-estoril-praia",
     "nation": "POR",
     "league": 3,
     "uefa": 0,
@@ -2546,6 +2864,7 @@
   {
     "pos": 319,
     "team": "Alverca",
+    "logo": "alverca",
     "nation": "POR",
     "league": 3,
     "uefa": 0,
@@ -2554,6 +2873,7 @@
   {
     "pos": 320,
     "team": "Moreirense FC",
+    "logo": "moreirense-fc",
     "nation": "POR",
     "league": 3,
     "uefa": 0,
@@ -2562,6 +2882,7 @@
   {
     "pos": 321,
     "team": "ACS Petrolul 52 Ploieşti",
+    "logo": "acs-petrolul-52-ploieti",
     "nation": "ROU",
     "league": 3,
     "uefa": 0,
@@ -2570,6 +2891,7 @@
   {
     "pos": 322,
     "team": "MFK Skalica",
+    "logo": "mfk-skalica",
     "nation": "SVK",
     "league": 3,
     "uefa": 0,
@@ -2578,6 +2900,7 @@
   {
     "pos": 323,
     "team": "MŠK Žilina",
+    "logo": "msk-zilina",
     "nation": "SVK",
     "league": 3,
     "uefa": 0,
@@ -2586,6 +2909,7 @@
   {
     "pos": 324,
     "team": "NK Nafta 1903 Lendava",
+    "logo": "nk-nafta-1903-lendava",
     "nation": "SVN",
     "league": 3,
     "uefa": 0,
@@ -2594,6 +2918,7 @@
   {
     "pos": 325,
     "team": "NŠ Mura",
+    "logo": "ns-mura",
     "nation": "SVN",
     "league": 3,
     "uefa": 0,
@@ -2602,6 +2927,7 @@
   {
     "pos": 326,
     "team": "Çorum Belediye Spor Kulübü",
+    "logo": "corum-belediye-spor-kulubu",
     "nation": "TUR",
     "league": 3,
     "uefa": 0,
@@ -2610,6 +2936,7 @@
   {
     "pos": 327,
     "team": "ETO FC",
+    "logo": "eto-fc",
     "nation": "HUN",
     "league": 2,
     "uefa": 1,
@@ -2618,6 +2945,7 @@
   {
     "pos": 328,
     "team": "Bohemian FC",
+    "logo": "bohemian-fc",
     "nation": "IRL",
     "league": 2,
     "uefa": 1,
@@ -2626,6 +2954,7 @@
   {
     "pos": 329,
     "team": "Floriana FC",
+    "logo": "floriana-fc",
     "nation": "MLT",
     "league": 2,
     "uefa": 1,
@@ -2634,6 +2963,7 @@
   {
     "pos": 330,
     "team": "Valletta FC",
+    "logo": "valletta-fc",
     "nation": "MLT",
     "league": 2,
     "uefa": 1,
@@ -2642,6 +2972,7 @@
   {
     "pos": 331,
     "team": "KS Raków Częstochowa",
+    "logo": "ks-rakow-czstochowa",
     "nation": "POL",
     "league": 0,
     "uefa": 3,
@@ -2650,6 +2981,7 @@
   {
     "pos": 332,
     "team": "SP Tre Fiori",
+    "logo": "sp-tre-fiori",
     "nation": "SMR",
     "league": 0,
     "uefa": 3,
@@ -2658,6 +2990,7 @@
   {
     "pos": 333,
     "team": "KF Laçi",
+    "logo": "kf-laci",
     "nation": "ALB",
     "league": 2,
     "uefa": 0,
@@ -2666,6 +2999,7 @@
   {
     "pos": 334,
     "team": "KF Partizani Tirana",
+    "logo": "kf-partizani-tirana",
     "nation": "ALB",
     "league": 2,
     "uefa": 0,
@@ -2674,6 +3008,7 @@
   {
     "pos": 335,
     "team": "KS Skënderbeu Korçë",
+    "logo": "ks-skenderbeu-korce",
     "nation": "ALB",
     "league": 2,
     "uefa": 0,
@@ -2682,6 +3017,7 @@
   {
     "pos": 336,
     "team": "KS Teuta Durrës",
+    "logo": "ks-teuta-durres",
     "nation": "ALB",
     "league": 2,
     "uefa": 0,
@@ -2690,6 +3026,7 @@
   {
     "pos": 337,
     "team": "KF Tirana",
+    "logo": "kf-tirana",
     "nation": "ALB",
     "league": 2,
     "uefa": 0,
@@ -2698,6 +3035,7 @@
   {
     "pos": 338,
     "team": "KS Vllaznia Shkodër",
+    "logo": "ks-vllaznia-shkoder",
     "nation": "ALB",
     "league": 2,
     "uefa": 0,
@@ -2706,6 +3044,7 @@
   {
     "pos": 339,
     "team": "FK Vora",
+    "logo": "fk-vora",
     "nation": "ALB",
     "league": 2,
     "uefa": 0,
@@ -2714,6 +3053,7 @@
   {
     "pos": 340,
     "team": "Araz FK",
+    "logo": "araz-fk",
     "nation": "AZE",
     "league": 2,
     "uefa": 0,
@@ -2722,6 +3062,7 @@
   {
     "pos": 341,
     "team": "Mil Muğan FK",
+    "logo": "mil-muan-fk",
     "nation": "AZE",
     "league": 2,
     "uefa": 0,
@@ -2730,6 +3071,7 @@
   {
     "pos": 342,
     "team": "Lommel United",
+    "logo": "lommel-united",
     "nation": "BEL",
     "league": 2,
     "uefa": 0,
@@ -2738,6 +3080,7 @@
   {
     "pos": 343,
     "team": "YR KV Mechelen",
+    "logo": "yr-kv-mechelen",
     "nation": "BEL",
     "league": 2,
     "uefa": 0,
@@ -2746,6 +3089,7 @@
   {
     "pos": 344,
     "team": "FK Željezničar Sarajevo",
+    "logo": "fk-zeljezniar-sarajevo",
     "nation": "BIH",
     "league": 2,
     "uefa": 0,
@@ -2754,6 +3098,7 @@
   {
     "pos": 345,
     "team": "FK BSK Banja Luka",
+    "logo": "fk-bsk-banja-luka",
     "nation": "BIH",
     "league": 2,
     "uefa": 0,
@@ -2762,6 +3107,7 @@
   {
     "pos": 346,
     "team": "FK Arda Kardzhali",
+    "logo": "fk-arda-kardzhali",
     "nation": "BUL",
     "league": 2,
     "uefa": 0,
@@ -2770,6 +3116,7 @@
   {
     "pos": 347,
     "team": "FK Botev Plovdiv",
+    "logo": "fk-botev-plovdiv",
     "nation": "BUL",
     "league": 2,
     "uefa": 0,
@@ -2778,6 +3125,7 @@
   {
     "pos": 348,
     "team": "AEK Larnaca",
+    "logo": "aek-larnaca",
     "nation": "CYP",
     "league": 2,
     "uefa": 0,
@@ -2786,6 +3134,7 @@
   {
     "pos": 349,
     "team": "AEL Limassol",
+    "logo": "ael-limassol",
     "nation": "CYP",
     "league": 2,
     "uefa": 0,
@@ -2794,6 +3143,7 @@
   {
     "pos": 350,
     "team": "Anorthosis Famagusta FC",
+    "logo": "anorthosis-famagusta-fc",
     "nation": "CYP",
     "league": 2,
     "uefa": 0,
@@ -2802,6 +3152,7 @@
   {
     "pos": 351,
     "team": "APOEL FC",
+    "logo": "apoel-fc",
     "nation": "CYP",
     "league": 2,
     "uefa": 0,
@@ -2810,6 +3161,7 @@
   {
     "pos": 352,
     "team": "Apollon Limassol",
+    "logo": "apollon-limassol",
     "nation": "CYP",
     "league": 2,
     "uefa": 0,
@@ -2818,6 +3170,7 @@
   {
     "pos": 353,
     "team": "Aris FC Limassol",
+    "logo": "aris-fc-limassol",
     "nation": "CYP",
     "league": 2,
     "uefa": 0,
@@ -2826,6 +3179,7 @@
   {
     "pos": 354,
     "team": "Digenis Ypsonas",
+    "logo": "digenis-ypsonas",
     "nation": "CYP",
     "league": 2,
     "uefa": 0,
@@ -2834,6 +3188,7 @@
   {
     "pos": 355,
     "team": "Karmiotissa Pano Polemidia",
+    "logo": "karmiotissa-pano-polemidia",
     "nation": "CYP",
     "league": 2,
     "uefa": 0,
@@ -2842,6 +3197,7 @@
   {
     "pos": 356,
     "team": "Nea Salamis Famagusta",
+    "logo": "nea-salamis-famagusta",
     "nation": "CYP",
     "league": 2,
     "uefa": 0,
@@ -2850,6 +3206,7 @@
   {
     "pos": 357,
     "team": "Olympiakos Nicosia FC",
+    "logo": "olympiakos-nicosia-fc",
     "nation": "CYP",
     "league": 2,
     "uefa": 0,
@@ -2858,6 +3215,7 @@
   {
     "pos": 358,
     "team": "ALS Omonia 29is Maiou",
+    "logo": "als-omonia-29is-maiou",
     "nation": "CYP",
     "league": 2,
     "uefa": 0,
@@ -2866,6 +3224,7 @@
   {
     "pos": 359,
     "team": "Omonia FC Aradippou",
+    "logo": "omonia-fc-aradippou",
     "nation": "CYP",
     "league": 2,
     "uefa": 0,
@@ -2874,6 +3233,7 @@
   {
     "pos": 360,
     "team": "Silkeborg IF",
+    "logo": "silkeborg-if",
     "nation": "DEN",
     "league": 2,
     "uefa": 0,
@@ -2882,6 +3242,7 @@
   {
     "pos": 361,
     "team": "AC Horsens",
+    "logo": "ac-horsens",
     "nation": "DEN",
     "league": 2,
     "uefa": 0,
@@ -2890,6 +3251,7 @@
   {
     "pos": 362,
     "team": "Randers FC",
+    "logo": "randers-fc",
     "nation": "DEN",
     "league": 2,
     "uefa": 0,
@@ -2898,6 +3260,7 @@
   {
     "pos": 363,
     "team": "Nõmme Kalju FC",
+    "logo": "nomme-kalju-fc",
     "nation": "EST",
     "league": 2,
     "uefa": 0,
@@ -2906,6 +3269,7 @@
   {
     "pos": 364,
     "team": "HB Tórshavn",
+    "logo": "hb-torshavn",
     "nation": "FRO",
     "league": 2,
     "uefa": 0,
@@ -2914,6 +3278,7 @@
   {
     "pos": 365,
     "team": "B36 Tórshavn",
+    "logo": "b36-torshavn",
     "nation": "FRO",
     "league": 2,
     "uefa": 0,
@@ -2922,6 +3287,7 @@
   {
     "pos": 366,
     "team": "MTK Budapest FC",
+    "logo": "mtk-budapest-fc",
     "nation": "HUN",
     "league": 2,
     "uefa": 0,
@@ -2930,6 +3296,7 @@
   {
     "pos": 367,
     "team": "Fram Reykjavík",
+    "logo": "fram-reykjavik",
     "nation": "ISL",
     "league": 2,
     "uefa": 0,
@@ -2938,6 +3305,7 @@
   {
     "pos": 368,
     "team": "Hapoel Ironi Kiryat Shmona FC",
+    "logo": "hapoel-ironi-kiryat-shmona-fc",
     "nation": "ISR",
     "league": 2,
     "uefa": 0,
@@ -2946,6 +3314,7 @@
   {
     "pos": 369,
     "team": "Ironi Tiberias",
+    "logo": "ironi-tiberias",
     "nation": "ISR",
     "league": 2,
     "uefa": 0,
@@ -2954,6 +3323,7 @@
   {
     "pos": 370,
     "team": "Maccabi Haifa FC",
+    "logo": "maccabi-haifa-fc",
     "nation": "ISR",
     "league": 2,
     "uefa": 0,
@@ -2962,6 +3332,7 @@
   {
     "pos": 371,
     "team": "Maccabi Netanya FC",
+    "logo": "maccabi-netanya-fc",
     "nation": "ISR",
     "league": 2,
     "uefa": 0,
@@ -2970,6 +3341,7 @@
   {
     "pos": 372,
     "team": "Maccabi Petah Tikva FC",
+    "logo": "maccabi-petah-tikva-fc",
     "nation": "ISR",
     "league": 2,
     "uefa": 0,
@@ -2978,6 +3350,7 @@
   {
     "pos": 373,
     "team": "FC Progrès Niederkorn",
+    "logo": "fc-progres-niederkorn",
     "nation": "LUX",
     "league": 2,
     "uefa": 0,
@@ -2986,6 +3359,7 @@
   {
     "pos": 374,
     "team": "US Mondorf-les-Bains",
+    "logo": "us-mondorf-les-bains",
     "nation": "LUX",
     "league": 2,
     "uefa": 0,
@@ -2994,6 +3368,7 @@
   {
     "pos": 375,
     "team": "FC Zimbru Chişinău",
+    "logo": "fc-zimbru-chiinu",
     "nation": "MDA",
     "league": 2,
     "uefa": 0,
@@ -3002,6 +3377,7 @@
   {
     "pos": 376,
     "team": "CS Petrocub Hînceşti",
+    "logo": "cs-petrocub-hinceti",
     "nation": "MDA",
     "league": 2,
     "uefa": 0,
@@ -3010,6 +3386,7 @@
   {
     "pos": 377,
     "team": "FC Struga Trim-Lum",
+    "logo": "fc-struga-trim-lum",
     "nation": "MKD",
     "league": 2,
     "uefa": 0,
@@ -3018,6 +3395,7 @@
   {
     "pos": 378,
     "team": "Paola Hibernians FC",
+    "logo": "paola-hibernians-fc",
     "nation": "MLT",
     "league": 2,
     "uefa": 0,
@@ -3026,6 +3404,7 @@
   {
     "pos": 379,
     "team": "FK Bokelj Kotor",
+    "logo": "fk-bokelj-kotor",
     "nation": "MNE",
     "league": 2,
     "uefa": 0,
@@ -3034,6 +3413,7 @@
   {
     "pos": 380,
     "team": "PEC Zwolle",
+    "logo": "pec-zwolle",
     "nation": "NED",
     "league": 2,
     "uefa": 0,
@@ -3042,6 +3422,7 @@
   {
     "pos": 381,
     "team": "FC Utrecht",
+    "logo": "fc-utrecht",
     "nation": "NED",
     "league": 2,
     "uefa": 0,
@@ -3050,6 +3431,7 @@
   {
     "pos": 382,
     "team": "HFC ADO Den Haag",
+    "logo": "hfc-ado-den-haag",
     "nation": "NED",
     "league": 2,
     "uefa": 0,
@@ -3058,6 +3440,7 @@
   {
     "pos": 383,
     "team": "SC Cambuur Leeuwarden",
+    "logo": "sc-cambuur-leeuwarden",
     "nation": "NED",
     "league": 2,
     "uefa": 0,
@@ -3066,6 +3449,7 @@
   {
     "pos": 384,
     "team": "Willem II",
+    "logo": "willem-ii",
     "nation": "NED",
     "league": 2,
     "uefa": 0,
@@ -3074,6 +3458,7 @@
   {
     "pos": 385,
     "team": "Rosenborg BK",
+    "logo": "rosenborg-bk",
     "nation": "NOR",
     "league": 2,
     "uefa": 0,
@@ -3082,6 +3467,7 @@
   {
     "pos": 386,
     "team": "MKS Korona Kielce",
+    "logo": "mks-korona-kielce",
     "nation": "POL",
     "league": 2,
     "uefa": 0,
@@ -3090,6 +3476,7 @@
   {
     "pos": 387,
     "team": "Wisła Płock SA",
+    "logo": "wisa-pock-sa",
     "nation": "POL",
     "league": 2,
     "uefa": 0,
@@ -3098,6 +3485,7 @@
   {
     "pos": 388,
     "team": "WKS Śląsk Wrocław",
+    "logo": "wks-lsk-wrocaw",
     "nation": "POL",
     "league": 2,
     "uefa": 0,
@@ -3106,6 +3494,7 @@
   {
     "pos": 389,
     "team": "Motor Lublin SA",
+    "logo": "motor-lublin-sa",
     "nation": "POL",
     "league": 2,
     "uefa": 0,
@@ -3114,6 +3503,7 @@
   {
     "pos": 390,
     "team": "Casa Pia AC",
+    "logo": "casa-pia-ac",
     "nation": "POR",
     "league": 2,
     "uefa": 0,
@@ -3122,6 +3512,7 @@
   {
     "pos": 391,
     "team": "Vitória Guimarães SC",
+    "logo": "vitoria-guimaraes-sc",
     "nation": "POR",
     "league": 2,
     "uefa": 0,
@@ -3130,6 +3521,7 @@
   {
     "pos": 392,
     "team": "Rio Ave FC",
+    "logo": "rio-ave-fc",
     "nation": "POR",
     "league": 2,
     "uefa": 0,
@@ -3138,6 +3530,7 @@
   {
     "pos": 393,
     "team": "SC Fotbal Club FCSB SA",
+    "logo": "sc-fotbal-club-fcsb-sa",
     "nation": "ROU",
     "league": 2,
     "uefa": 0,
@@ -3146,6 +3539,7 @@
   {
     "pos": 394,
     "team": "FC Corvinul Hunedoara",
+    "logo": "fc-corvinul-hunedoara",
     "nation": "ROU",
     "league": 2,
     "uefa": 0,
@@ -3154,6 +3548,7 @@
   {
     "pos": 395,
     "team": "FC Rapid Bucureşti",
+    "logo": "fc-rapid-bucureti",
     "nation": "ROU",
     "league": 2,
     "uefa": 0,
@@ -3162,6 +3557,7 @@
   {
     "pos": 396,
     "team": "SSC Farul Constanţa",
+    "logo": "ssc-farul-constana",
     "nation": "ROU",
     "league": 2,
     "uefa": 0,
@@ -3170,6 +3566,7 @@
   {
     "pos": 397,
     "team": "Falkirk FC",
+    "logo": "falkirk-fc",
     "nation": "SCO",
     "league": 2,
     "uefa": 0,
@@ -3178,6 +3575,7 @@
   {
     "pos": 398,
     "team": "Dundee United FC",
+    "logo": "dundee-united-fc",
     "nation": "SCO",
     "league": 2,
     "uefa": 0,
@@ -3186,6 +3584,7 @@
   {
     "pos": 399,
     "team": "LFK Mladost Lučani",
+    "logo": "lfk-mladost-luani",
     "nation": "SRB",
     "league": 2,
     "uefa": 0,
@@ -3194,6 +3593,7 @@
   {
     "pos": 400,
     "team": "Servette FC",
+    "logo": "servette-fc",
     "nation": "SUI",
     "league": 2,
     "uefa": 0,
@@ -3202,6 +3602,7 @@
   {
     "pos": 401,
     "team": "FC Zürich",
+    "logo": "fc-zurich",
     "nation": "SUI",
     "league": 2,
     "uefa": 0,
@@ -3210,6 +3611,7 @@
   {
     "pos": 402,
     "team": "FC Koper",
+    "logo": "fc-koper",
     "nation": "SVN",
     "league": 2,
     "uefa": 0,
@@ -3218,6 +3620,7 @@
   {
     "pos": 403,
     "team": "Göztepe",
+    "logo": "goztepe",
     "nation": "TUR",
     "league": 2,
     "uefa": 0,
@@ -3226,6 +3629,7 @@
   {
     "pos": 404,
     "team": "Samsunspor",
+    "logo": "samsunspor",
     "nation": "TUR",
     "league": 2,
     "uefa": 0,
@@ -3234,6 +3638,7 @@
   {
     "pos": 405,
     "team": "Eyüp Spor Kulübü",
+    "logo": "eyup-spor-kulubu",
     "nation": "TUR",
     "league": 2,
     "uefa": 0,
@@ -3242,6 +3647,7 @@
   {
     "pos": 406,
     "team": "Konyaspor",
+    "logo": "konyaspor",
     "nation": "TUR",
     "league": 2,
     "uefa": 0,
@@ -3250,6 +3656,7 @@
   {
     "pos": 407,
     "team": "Kocaelispor Kulübü",
+    "logo": "kocaelispor-kulubu",
     "nation": "TUR",
     "league": 2,
     "uefa": 0,
@@ -3258,6 +3665,7 @@
   {
     "pos": 408,
     "team": "BB Erzurumspor",
+    "logo": "bb-erzurumspor",
     "nation": "TUR",
     "league": 2,
     "uefa": 0,
@@ -3266,6 +3674,7 @@
   {
     "pos": 409,
     "team": "FK Epitsentr Dunayivtsi",
+    "logo": "fk-epitsentr-dunayivtsi",
     "nation": "UKR",
     "league": 2,
     "uefa": 0,
@@ -3274,6 +3683,7 @@
   {
     "pos": 410,
     "team": "LNZ Cherkasy FC",
+    "logo": "lnz-cherkasy-fc",
     "nation": "UKR",
     "league": 2,
     "uefa": 0,
@@ -3282,6 +3692,7 @@
   {
     "pos": 411,
     "team": "FK Hirnyk Kryvyi Rih",
+    "logo": "fk-hirnyk-kryvyi-rih",
     "nation": "UKR",
     "league": 2,
     "uefa": 0,
@@ -3290,6 +3701,7 @@
   {
     "pos": 412,
     "team": "Llandudno FC",
+    "logo": "llandudno-fc",
     "nation": "WAL",
     "league": 2,
     "uefa": 0,
@@ -3298,6 +3710,7 @@
   {
     "pos": 413,
     "team": "Barry Town United FC",
+    "logo": "barry-town-united-fc",
     "nation": "WAL",
     "league": 2,
     "uefa": 0,
@@ -3306,6 +3719,7 @@
   {
     "pos": 414,
     "team": "Debreceni VSC",
+    "logo": "debreceni-vsc",
     "nation": "HUN",
     "league": 1,
     "uefa": 1,
@@ -3314,6 +3728,7 @@
   {
     "pos": 415,
     "team": "FC UNA Strassen",
+    "logo": "fc-una-strassen",
     "nation": "LUX",
     "league": 1,
     "uefa": 1,
@@ -3322,6 +3737,7 @@
   {
     "pos": 416,
     "team": "The New Saints FC",
+    "logo": "the-new-saints-fc",
     "nation": "WAL",
     "league": 1,
     "uefa": 1,
@@ -3330,6 +3746,7 @@
   {
     "pos": 417,
     "team": "Tallinna FC Flora",
+    "logo": "tallinna-fc-flora",
     "nation": "EST",
     "league": 0,
     "uefa": 2,
@@ -3338,6 +3755,7 @@
   {
     "pos": 418,
     "team": "Paide Linnameeskond",
+    "logo": "paide-linnameeskond",
     "nation": "EST",
     "league": 0,
     "uefa": 2,
@@ -3346,6 +3764,7 @@
   {
     "pos": 419,
     "team": "Pyunik FC",
+    "logo": "pyunik-fc",
     "nation": "ARM",
     "league": 1,
     "uefa": 0,
@@ -3354,6 +3773,7 @@
   {
     "pos": 420,
     "team": "FC Banants",
+    "logo": "fc-banants",
     "nation": "ARM",
     "league": 1,
     "uefa": 0,
@@ -3362,6 +3782,7 @@
   {
     "pos": 421,
     "team": "Shirak FC",
+    "logo": "shirak-fc",
     "nation": "ARM",
     "league": 1,
     "uefa": 0,
@@ -3370,6 +3791,7 @@
   {
     "pos": 422,
     "team": "FC Gandzasar Kapan",
+    "logo": "fc-gandzasar-kapan",
     "nation": "ARM",
     "league": 1,
     "uefa": 0,
@@ -3378,6 +3800,7 @@
   {
     "pos": 423,
     "team": "FC Ararat Yerevan",
+    "logo": "fc-ararat-yerevan",
     "nation": "ARM",
     "league": 1,
     "uefa": 0,
@@ -3386,6 +3809,7 @@
   {
     "pos": 424,
     "team": "SV Ried",
+    "logo": "sv-ried",
     "nation": "AUT",
     "league": 1,
     "uefa": 0,
@@ -3394,6 +3818,7 @@
   {
     "pos": 425,
     "team": "WSG Swarovski Wattens",
+    "logo": "wsg-swarovski-wattens",
     "nation": "AUT",
     "league": 1,
     "uefa": 0,
@@ -3402,6 +3827,7 @@
   {
     "pos": 426,
     "team": "FC İnter Bakı",
+    "logo": "fc-nter-bak",
     "nation": "AZE",
     "league": 1,
     "uefa": 0,
@@ -3410,6 +3836,7 @@
   {
     "pos": 427,
     "team": "FK Qabala",
+    "logo": "fk-qabala",
     "nation": "AZE",
     "league": 1,
     "uefa": 0,
@@ -3418,6 +3845,7 @@
   {
     "pos": 428,
     "team": "FK Kapaz",
+    "logo": "fk-kapaz",
     "nation": "AZE",
     "league": 1,
     "uefa": 0,
@@ -3426,6 +3854,7 @@
   {
     "pos": 429,
     "team": "FK Safa",
+    "logo": "fk-safa",
     "nation": "AZE",
     "league": 1,
     "uefa": 0,
@@ -3434,6 +3863,7 @@
   {
     "pos": 430,
     "team": "FK Sumqayıt",
+    "logo": "fk-sumqayt",
     "nation": "AZE",
     "league": 1,
     "uefa": 0,
@@ -3442,6 +3872,7 @@
   {
     "pos": 431,
     "team": "RAAL La Louvière",
+    "logo": "raal-la-louviere",
     "nation": "BEL",
     "league": 1,
     "uefa": 0,
@@ -3450,6 +3881,7 @@
   {
     "pos": 432,
     "team": "Oud-Heverlee Leuven",
+    "logo": "oud-heverlee-leuven",
     "nation": "BEL",
     "league": 1,
     "uefa": 0,
@@ -3458,6 +3890,7 @@
   {
     "pos": 433,
     "team": "KVC Westerlo",
+    "logo": "kvc-westerlo",
     "nation": "BEL",
     "league": 1,
     "uefa": 0,
@@ -3466,6 +3899,7 @@
   {
     "pos": 434,
     "team": "KV Kortrijk",
+    "logo": "kv-kortrijk",
     "nation": "BEL",
     "league": 1,
     "uefa": 0,
@@ -3474,6 +3908,7 @@
   {
     "pos": 435,
     "team": "FC Dinamo Brest",
+    "logo": "fc-dinamo-brest",
     "nation": "BLR",
     "league": 1,
     "uefa": 0,
@@ -3482,6 +3917,7 @@
   {
     "pos": 436,
     "team": "PFC Spartak 1918 Varna",
+    "logo": "pfc-spartak-1918-varna",
     "nation": "BUL",
     "league": 1,
     "uefa": 0,
@@ -3490,6 +3926,7 @@
   {
     "pos": 437,
     "team": "Odense BK",
+    "logo": "odense-bk",
     "nation": "DEN",
     "league": 1,
     "uefa": 0,
@@ -3498,6 +3935,7 @@
   {
     "pos": 438,
     "team": "Lyngby Boldklub",
+    "logo": "lyngby-boldklub",
     "nation": "DEN",
     "league": 1,
     "uefa": 0,
@@ -3506,6 +3944,7 @@
   {
     "pos": 439,
     "team": "Víkingur Gøta",
+    "logo": "vikingur-gota",
     "nation": "FRO",
     "league": 1,
     "uefa": 0,
@@ -3514,6 +3953,7 @@
   {
     "pos": 440,
     "team": "FC Dinamo Batumi",
+    "logo": "fc-dinamo-batumi",
     "nation": "GEO",
     "league": 1,
     "uefa": 0,
@@ -3522,6 +3962,7 @@
   {
     "pos": 441,
     "team": "College 1975 FC",
+    "logo": "college-1975-fc",
     "nation": "GIB",
     "league": 1,
     "uefa": 0,
@@ -3530,6 +3971,7 @@
   {
     "pos": 442,
     "team": "Europa FC",
+    "logo": "europa-fc",
     "nation": "GIB",
     "league": 1,
     "uefa": 0,
@@ -3538,6 +3980,7 @@
   {
     "pos": 443,
     "team": "Europa Point FC",
+    "logo": "europa-point-fc",
     "nation": "GIB",
     "league": 1,
     "uefa": 0,
@@ -3546,6 +3989,7 @@
   {
     "pos": 444,
     "team": "Glacis United FC",
+    "logo": "glacis-united-fc",
     "nation": "GIB",
     "league": 1,
     "uefa": 0,
@@ -3554,6 +3998,7 @@
   {
     "pos": 445,
     "team": "FC Hound Dogs",
+    "logo": "fc-hound-dogs",
     "nation": "GIB",
     "league": 1,
     "uefa": 0,
@@ -3562,6 +4007,7 @@
   {
     "pos": 446,
     "team": "Lions Gibraltar FC",
+    "logo": "lions-gibraltar-fc",
     "nation": "GIB",
     "league": 1,
     "uefa": 0,
@@ -3570,6 +4016,7 @@
   {
     "pos": 447,
     "team": "Lynx FC",
+    "logo": "lynx-fc",
     "nation": "GIB",
     "league": 1,
     "uefa": 0,
@@ -3578,6 +4025,7 @@
   {
     "pos": 448,
     "team": "FC Magpies",
+    "logo": "fc-magpies",
     "nation": "GIB",
     "league": 1,
     "uefa": 0,
@@ -3586,6 +4034,7 @@
   {
     "pos": 449,
     "team": "Mons Calpe SC",
+    "logo": "mons-calpe-sc",
     "nation": "GIB",
     "league": 1,
     "uefa": 0,
@@ -3594,6 +4043,7 @@
   {
     "pos": 450,
     "team": "Kisvárda Master Good SE",
+    "logo": "kisvarda-master-good-se",
     "nation": "HUN",
     "league": 1,
     "uefa": 0,
@@ -3602,6 +4052,7 @@
   {
     "pos": 451,
     "team": "Paksi FC",
+    "logo": "paksi-fc",
     "nation": "HUN",
     "league": 1,
     "uefa": 0,
@@ -3610,6 +4061,7 @@
   {
     "pos": 452,
     "team": "KF Drenica Skënderaj",
+    "logo": "kf-drenica-skenderaj",
     "nation": "KOS",
     "league": 1,
     "uefa": 0,
@@ -3618,6 +4070,7 @@
   {
     "pos": 453,
     "team": "KF Dukagjini Klina",
+    "logo": "kf-dukagjini-klina",
     "nation": "KOS",
     "league": 1,
     "uefa": 0,
@@ -3626,6 +4079,7 @@
   {
     "pos": 454,
     "team": "FC Ruggell II",
+    "logo": "fc-ruggell-ii",
     "nation": "LIE",
     "league": 1,
     "uefa": 0,
@@ -3634,6 +4088,7 @@
   {
     "pos": 455,
     "team": "FC Schaan II",
+    "logo": "fc-schaan-ii",
     "nation": "LIE",
     "league": 1,
     "uefa": 0,
@@ -3642,6 +4097,7 @@
   {
     "pos": 456,
     "team": "FC Balzers II",
+    "logo": "fc-balzers-ii",
     "nation": "LIE",
     "league": 1,
     "uefa": 0,
@@ -3650,6 +4106,7 @@
   {
     "pos": 457,
     "team": "FC Triesenberg",
+    "logo": "fc-triesenberg",
     "nation": "LIE",
     "league": 1,
     "uefa": 0,
@@ -3658,6 +4115,7 @@
   {
     "pos": 458,
     "team": "Racing FC Union Lëtzebuerg",
+    "logo": "racing-fc-union-letzebuerg",
     "nation": "LUX",
     "league": 1,
     "uefa": 0,
@@ -3666,6 +4124,7 @@
   {
     "pos": 459,
     "team": "FK Sileks",
+    "logo": "fk-sileks",
     "nation": "MKD",
     "league": 1,
     "uefa": 0,
@@ -3674,6 +4133,7 @@
   {
     "pos": 460,
     "team": "FK Tikveš",
+    "logo": "fk-tikves",
     "nation": "MKD",
     "league": 1,
     "uefa": 0,
@@ -3682,6 +4142,7 @@
   {
     "pos": 461,
     "team": "FK Mornar Bar",
+    "logo": "fk-mornar-bar",
     "nation": "MNE",
     "league": 1,
     "uefa": 0,
@@ -3690,6 +4151,7 @@
   {
     "pos": 462,
     "team": "FK Budućnost Podgorica",
+    "logo": "fk-budunost-podgorica",
     "nation": "MNE",
     "league": 1,
     "uefa": 0,
@@ -3698,6 +4160,7 @@
   {
     "pos": 463,
     "team": "FK Jezero Plav",
+    "logo": "fk-jezero-plav",
     "nation": "MNE",
     "league": 1,
     "uefa": 0,
@@ -3706,6 +4169,7 @@
   {
     "pos": 464,
     "team": "Coleraine FC",
+    "logo": "coleraine-fc",
     "nation": "NIR",
     "league": 1,
     "uefa": 0,
@@ -3714,6 +4178,7 @@
   {
     "pos": 465,
     "team": "Ballymena United FC",
+    "logo": "ballymena-united-fc",
     "nation": "NIR",
     "league": 1,
     "uefa": 0,
@@ -3722,6 +4187,7 @@
   {
     "pos": 466,
     "team": "Glentoran FC",
+    "logo": "glentoran-fc",
     "nation": "NIR",
     "league": 1,
     "uefa": 0,
@@ -3730,6 +4196,7 @@
   {
     "pos": 467,
     "team": "Crusaders FC",
+    "logo": "crusaders-fc",
     "nation": "NIR",
     "league": 1,
     "uefa": 0,
@@ -3738,6 +4205,7 @@
   {
     "pos": 468,
     "team": "Dungannon Swifts FC",
+    "logo": "dungannon-swifts-fc",
     "nation": "NIR",
     "league": 1,
     "uefa": 0,
@@ -3746,6 +4214,7 @@
   {
     "pos": 469,
     "team": "Linfield FC",
+    "logo": "linfield-fc",
     "nation": "NIR",
     "league": 1,
     "uefa": 0,
@@ -3754,6 +4223,7 @@
   {
     "pos": 470,
     "team": "Fredrikstad FK",
+    "logo": "fredrikstad-fk",
     "nation": "NOR",
     "league": 1,
     "uefa": 0,
@@ -3762,6 +4232,7 @@
   {
     "pos": 471,
     "team": "GKS Katowice",
+    "logo": "gks-katowice",
     "nation": "POL",
     "league": 1,
     "uefa": 0,
@@ -3770,6 +4241,7 @@
   {
     "pos": 472,
     "team": "Wieczysta Kraków",
+    "logo": "wieczysta-krakow",
     "nation": "POL",
     "league": 1,
     "uefa": 0,
@@ -3778,6 +4250,7 @@
   {
     "pos": 473,
     "team": "GKS Piast Gliwice",
+    "logo": "gks-piast-gliwice",
     "nation": "POL",
     "league": 1,
     "uefa": 0,
@@ -3786,6 +4259,7 @@
   {
     "pos": 474,
     "team": "RKS Radomiak Radom",
+    "logo": "rks-radomiak-radom",
     "nation": "POL",
     "league": 1,
     "uefa": 0,
@@ -3794,6 +4268,7 @@
   {
     "pos": 475,
     "team": "Kilmarnock FC",
+    "logo": "kilmarnock-fc",
     "nation": "SCO",
     "league": 1,
     "uefa": 0,
@@ -3802,6 +4277,7 @@
   {
     "pos": 476,
     "team": "SP Cailungo",
+    "logo": "sp-cailungo",
     "nation": "SMR",
     "league": 1,
     "uefa": 0,
@@ -3810,6 +4286,7 @@
   {
     "pos": 477,
     "team": "FC Fiorentino",
+    "logo": "fc-fiorentino",
     "nation": "SMR",
     "league": 1,
     "uefa": 0,
@@ -3818,6 +4295,7 @@
   {
     "pos": 478,
     "team": "AC Juvenes / Dogana",
+    "logo": "ac-juvenes-dogana",
     "nation": "SMR",
     "league": 1,
     "uefa": 0,
@@ -3826,6 +4304,7 @@
   {
     "pos": 479,
     "team": "SP La Fiorita",
+    "logo": "sp-la-fiorita",
     "nation": "SMR",
     "league": 1,
     "uefa": 0,
@@ -3834,6 +4313,7 @@
   {
     "pos": 480,
     "team": "AC Libertas",
+    "logo": "ac-libertas",
     "nation": "SMR",
     "league": 1,
     "uefa": 0,
@@ -3842,6 +4322,7 @@
   {
     "pos": 481,
     "team": "SS Pennarossa",
+    "logo": "ss-pennarossa",
     "nation": "SMR",
     "league": 1,
     "uefa": 0,
@@ -3850,6 +4331,7 @@
   {
     "pos": 482,
     "team": "FK Radnički 1923 Kragujevac",
+    "logo": "fk-radniki-1923-kragujevac",
     "nation": "SRB",
     "league": 1,
     "uefa": 0,
@@ -3858,6 +4340,7 @@
   {
     "pos": 483,
     "team": "FK Železničar Pančevo",
+    "logo": "fk-zelezniar-panevo",
     "nation": "SRB",
     "league": 1,
     "uefa": 0,
@@ -3866,6 +4349,7 @@
   {
     "pos": 484,
     "team": "FK Radnik Surdulica",
+    "logo": "fk-radnik-surdulica",
     "nation": "SRB",
     "league": 1,
     "uefa": 0,
@@ -3874,6 +4358,7 @@
   {
     "pos": 485,
     "team": "OFK Beograd",
+    "logo": "ofk-beograd",
     "nation": "SRB",
     "league": 1,
     "uefa": 0,
@@ -3882,6 +4367,7 @@
   {
     "pos": 486,
     "team": "FK Košice",
+    "logo": "fk-kosice",
     "nation": "SVK",
     "league": 1,
     "uefa": 0,
@@ -3890,6 +4376,7 @@
   {
     "pos": 487,
     "team": "NK Aluminij",
+    "logo": "nk-aluminij",
     "nation": "SVN",
     "league": 1,
     "uefa": 0,
@@ -3898,6 +4385,7 @@
   {
     "pos": 488,
     "team": "NK Brinje-Grosuplje",
+    "logo": "nk-brinje-grosuplje",
     "nation": "SVN",
     "league": 1,
     "uefa": 0,
@@ -3906,6 +4394,7 @@
   {
     "pos": 489,
     "team": "AIK Fotboll",
+    "logo": "aik-fotboll",
     "nation": "SWE",
     "league": 1,
     "uefa": 0,
@@ -3914,6 +4403,7 @@
   {
     "pos": 490,
     "team": "FC Zorya Luhansk",
+    "logo": "fc-zorya-luhansk",
     "nation": "UKR",
     "league": 1,
     "uefa": 0,
@@ -3922,6 +4412,7 @@
   {
     "pos": 491,
     "team": "FC Metalist 1925 Kharkiv",
+    "logo": "fc-metalist-1925-kharkiv",
     "nation": "UKR",
     "league": 1,
     "uefa": 0,
@@ -3930,6 +4421,7 @@
   {
     "pos": 492,
     "team": "FC Obolon-Brovar Kyiv",
+    "logo": "fc-obolon-brovar-kyiv",
     "nation": "UKR",
     "league": 1,
     "uefa": 0,
@@ -3938,6 +4430,7 @@
   {
     "pos": 493,
     "team": "FK Kudrivka",
+    "logo": "fk-kudrivka",
     "nation": "UKR",
     "league": 1,
     "uefa": 0,
@@ -3946,6 +4439,7 @@
   {
     "pos": 494,
     "team": "Tampereen Ilves",
+    "logo": "tampereen-ilves",
     "nation": "FIN",
     "league": 0,
     "uefa": 1,
@@ -3954,6 +4448,7 @@
   {
     "pos": 495,
     "team": "Shelbourne FC",
+    "logo": "shelbourne-fc",
     "nation": "IRL",
     "league": 0,
     "uefa": 1,
@@ -3962,6 +4457,7 @@
   {
     "pos": 496,
     "team": "Valur Reykjavík",
+    "logo": "valur-reykjavik",
     "nation": "ISL",
     "league": 0,
     "uefa": 1,
@@ -3970,6 +4466,7 @@
   {
     "pos": 497,
     "team": "FK Tobol Kostanay",
+    "logo": "fk-tobol-kostanay",
     "nation": "KAZ",
     "league": 0,
     "uefa": 1,
@@ -3978,6 +4475,7 @@
   {
     "pos": 498,
     "team": "VMFD Žalgiris Vilnius",
+    "logo": "vmfd-zalgiris-vilnius",
     "nation": "LTU",
     "league": 0,
     "uefa": 1,
@@ -3986,6 +4484,7 @@
   {
     "pos": 499,
     "team": "FC Atert Bissen",
+    "logo": "fc-atert-bissen",
     "nation": "LUX",
     "league": 0,
     "uefa": 1,
@@ -3994,6 +4493,7 @@
   {
     "pos": 500,
     "team": "FK Auda Riga",
+    "logo": "fk-auda-riga",
     "nation": "LVA",
     "league": 0,
     "uefa": 1,
@@ -4002,6 +4502,7 @@
   {
     "pos": 501,
     "team": "FK Sutjeska Nikšić",
+    "logo": "fk-sutjeska-niksi",
     "nation": "MNE",
     "league": 0,
     "uefa": 1,
@@ -4010,6 +4511,7 @@
   {
     "pos": 502,
     "team": "SCS CFR 1907 Cluj",
+    "logo": "scs-cfr-1907-cluj",
     "nation": "ROU",
     "league": 0,
     "uefa": 1,
@@ -4018,6 +4520,7 @@
   {
     "pos": 503,
     "team": "IFK Göteborg",
+    "logo": "ifk-goteborg",
     "nation": "SWE",
     "league": 0,
     "uefa": 1,
@@ -4026,6 +4529,7 @@
   {
     "pos": 504,
     "team": "Don Denis FC Santa Coloma",
+    "logo": "don-denis-fc-santa-coloma",
     "nation": "AND",
     "league": 0,
     "uefa": 0,
@@ -4034,6 +4538,7 @@
   {
     "pos": 505,
     "team": "Atlètic Club d'Escaldes",
+    "logo": "atletic-club-descaldes",
     "nation": "AND",
     "league": 0,
     "uefa": 0,
@@ -4042,6 +4547,7 @@
   {
     "pos": 506,
     "team": "FK Sarajevo",
+    "logo": "fk-sarajevo",
     "nation": "BIH",
     "league": 0,
     "uefa": 0,
@@ -4050,6 +4556,7 @@
   {
     "pos": 507,
     "team": "FK Velež Mostar",
+    "logo": "fk-velez-mostar",
     "nation": "BIH",
     "league": 0,
     "uefa": 0,
@@ -4058,6 +4565,7 @@
   {
     "pos": 508,
     "team": "FC BATE Borisov",
+    "logo": "fc-bate-borisov",
     "nation": "BLR",
     "league": 0,
     "uefa": 0,
@@ -4066,6 +4574,7 @@
   {
     "pos": 509,
     "team": "FC Torpedo Kutaisi",
+    "logo": "fc-torpedo-kutaisi",
     "nation": "GEO",
     "league": 0,
     "uefa": 0,
@@ -4074,6 +4583,7 @@
   {
     "pos": 510,
     "team": "FC Dila Gori",
+    "logo": "fc-dila-gori",
     "nation": "GEO",
     "league": 0,
     "uefa": 0,
@@ -4082,6 +4592,7 @@
   {
     "pos": 511,
     "team": "St Joseph's FC",
+    "logo": "st-josephs-fc",
     "nation": "GIB",
     "league": 0,
     "uefa": 0,
@@ -4090,6 +4601,7 @@
   {
     "pos": 512,
     "team": "Derry City FC",
+    "logo": "derry-city-fc",
     "nation": "IRL",
     "league": 0,
     "uefa": 0,
@@ -4098,6 +4610,7 @@
   {
     "pos": 513,
     "team": "UMF Stjarnan",
+    "logo": "umf-stjarnan",
     "nation": "ISL",
     "league": 0,
     "uefa": 0,
@@ -4106,6 +4619,7 @@
   {
     "pos": 514,
     "team": "FK Astana",
+    "logo": "fk-astana",
     "nation": "KAZ",
     "league": 0,
     "uefa": 0,
@@ -4114,6 +4628,7 @@
   {
     "pos": 515,
     "team": "FK Yelimay Semey",
+    "logo": "fk-yelimay-semey",
     "nation": "KAZ",
     "league": 0,
     "uefa": 0,
@@ -4122,6 +4637,7 @@
   {
     "pos": 516,
     "team": "KF Ballkani",
+    "logo": "kf-ballkani",
     "nation": "KOS",
     "league": 0,
     "uefa": 0,
@@ -4130,6 +4646,7 @@
   {
     "pos": 517,
     "team": "FK Panevėžys",
+    "logo": "fk-panevzys",
     "nation": "LTU",
     "league": 0,
     "uefa": 0,
@@ -4138,6 +4655,7 @@
   {
     "pos": 518,
     "team": "FC Hegelmann Litauen Kaunas",
+    "logo": "fc-hegelmann-litauen-kaunas",
     "nation": "LTU",
     "league": 0,
     "uefa": 0,
@@ -4146,6 +4664,7 @@
   {
     "pos": 519,
     "team": "FC Differdange 03",
+    "logo": "fc-differdange-03",
     "nation": "LUX",
     "league": 0,
     "uefa": 0,
@@ -4154,6 +4673,7 @@
   {
     "pos": 520,
     "team": "FK Liepāja",
+    "logo": "fk-liepja",
     "nation": "LVA",
     "league": 0,
     "uefa": 0,
@@ -4162,6 +4682,7 @@
   {
     "pos": 521,
     "team": "FC Milsami Orhei",
+    "logo": "fc-milsami-orhei",
     "nation": "MDA",
     "league": 0,
     "uefa": 0,
@@ -4170,6 +4691,7 @@
   {
     "pos": 522,
     "team": "FK Vardar Skopje",
+    "logo": "fk-vardar-skopje",
     "nation": "MKD",
     "league": 0,
     "uefa": 0,
@@ -4178,6 +4700,7 @@
   {
     "pos": 523,
     "team": "Marsaxlokk FC",
+    "logo": "marsaxlokk-fc",
     "nation": "MLT",
     "league": 0,
     "uefa": 0,
@@ -4186,6 +4709,7 @@
   {
     "pos": 524,
     "team": "Hamrun Spartans FC",
+    "logo": "hamrun-spartans-fc",
     "nation": "MLT",
     "league": 0,
     "uefa": 0,
@@ -4194,6 +4718,7 @@
   {
     "pos": 525,
     "team": "FK Dečić",
+    "logo": "fk-dei",
     "nation": "MNE",
     "league": 0,
     "uefa": 0,
@@ -4202,6 +4727,7 @@
   {
     "pos": 526,
     "team": "OFK Petrovac",
+    "logo": "ofk-petrovac",
     "nation": "MNE",
     "league": 0,
     "uefa": 0,
@@ -4210,6 +4736,7 @@
   {
     "pos": 527,
     "team": "FC Universitatea Cluj",
+    "logo": "fc-universitatea-cluj",
     "nation": "ROU",
     "league": 0,
     "uefa": 0,
@@ -4218,6 +4745,7 @@
   {
     "pos": 528,
     "team": "SS Virtus",
+    "logo": "ss-virtus",
     "nation": "SMR",
     "league": 0,
     "uefa": 0,
@@ -4226,6 +4754,7 @@
   {
     "pos": 529,
     "team": "FC Vaduz",
+    "logo": "fc-vaduz",
     "nation": "SUI",
     "league": 0,
     "uefa": 0,
@@ -4234,6 +4763,7 @@
   {
     "pos": 530,
     "team": "GAIS",
+    "logo": "gais",
     "nation": "SWE",
     "league": 0,
     "uefa": 0,
@@ -4242,6 +4772,7 @@
   {
     "pos": 531,
     "team": "Penybont FC",
+    "logo": "penybont-fc",
     "nation": "WAL",
     "league": 0,
     "uefa": 0,
@@ -4250,6 +4781,7 @@
   {
     "pos": 532,
     "team": "Connah's Quay Nomads FC",
+    "logo": "connahs-quay-nomads-fc",
     "nation": "WAL",
     "league": 0,
     "uefa": 0,
@@ -4258,6 +4790,7 @@
   {
     "pos": 533,
     "team": "Caernarfon Town FC",
+    "logo": "caernarfon-town-fc",
     "nation": "WAL",
     "league": 0,
     "uefa": 0,
